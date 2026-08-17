@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source.name,source.url,content.productName,content.startupName,content.pricingModel,collectedAt
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/1,ChatGPT,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/2,Claude 3 Opus,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/3,Rerank,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/4,Le Chat,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/5,Stable Diffusion 3,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/6,Hugging Face Hub,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/7,Midjourney v6,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/8,Frame Interpolation,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/9,Scale GenAI Platform,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/10,Perplexity Pro,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/11,Glean Assistant,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/12,Adept Workstation,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/13,Character c.ai,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/14,Together Fine-Tuning,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/15,Anyscale Ray Platform,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/16,Inflection Engine,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/17,Pinecone Serverless,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/18,Hybrid Search Engine,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/19,Qdrant Managed Cloud,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/20,Chroma Cloud,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/21,LangSmith Platform,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/22,LlamaCloud,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/23,W&B Prompts,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/24,Replicate Model Registry,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/25,GPT-NeoX,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/26,GroqCloud API,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/27,SambaNova SN40L Chip,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/28,Wafer-Scale Engine 3,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/29,Sohu Transformer ASIC,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/30,Devin Enterprise,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/31,Harvey Legal AI,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/32,AI Avatars v4,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/33,Conversational AI,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/34,Whisper,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/35,Claude Enterprise,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/36,Cohere Toolkit,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/37,Codestral,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/38,Stable Audio 2,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/39,Datasets,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/40,Midjourney v6,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/41,Gen-3 Alpha,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/42,Scale GenAI Platform,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/43,Perplexity Pro,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/44,Glean Assistant,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/45,ACT-1 Agent,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/46,Character c.ai,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/47,Together Fine-Tuning,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/48,Anyscale Endpoints,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/49,Pi 2.0 Assistant,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/50,Vector Database Engine,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/51,Weaviate Cloud,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/52,Vector Search API,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/53,Chroma DB Open Source,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/54,LangSmith Platform,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/55,LlamaCloud,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/56,W&B Prompts,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/57,Replicate Cloud Inference,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/58,GPT-NeoX,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/59,GroqLPU Inference Engine,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/60,Samba-1 Suite,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/61,Cerebras CS-3,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/62,Etched SDK,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/63,Devin AI Software Engineer,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/64,Harvey Vault,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/65,Synthesia Video Studio,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/66,Conversational AI,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/67,ChatGPT,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/68,Constitutional AI,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/69,Command R+,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/70,Mistral NeMo,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/71,Stable Video Diffusion,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/72,Transformers,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/73,Midjourney v6,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/74,Gen-2,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/75,Scale GenAI Platform,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/76,Perplexity Pro,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/77,Glean Assistant,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/78,Adept Workstation v3.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/79,Character c.ai,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/80,Together Fine-Tuning,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/81,Anyscale Ray Platform v3.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/82,Inflection Engine v3.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/83,Pinecone Serverless v3.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/84,Hybrid Search Engine v3.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/85,Qdrant Managed Cloud v3.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/86,Chroma Cloud v3.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/87,LangSmith Platform,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/88,LlamaCloud,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/89,W&B Prompts,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/90,Replicate Model Registry v4.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/91,GPT-NeoX,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/92,GroqCloud API v4.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/93,SambaNova SN40L Chip v4.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/94,Wafer-Scale Engine 3 v4.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/95,Sohu Transformer ASIC v4.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/96,Devin Enterprise v4.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/97,Harvey Legal AI v4.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/98,AI Avatars v4 v4.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/99,Conversational AI,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/100,Whisper,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/101,Claude 3.5 Sonnet,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/102,Embed v3,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/103,Pixtral,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/104,Stable LM,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/105,AutoTrain,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/106,Midjourney v6 v4.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/107,Motion Brush,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/108,Scale GenAI Platform v4.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/109,Perplexity Pro v4.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/110,Glean Assistant v4.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/111,ACT-1 Agent v4.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/112,Character c.ai v4.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/113,Together Fine-Tuning v4.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/114,Anyscale Endpoints v4.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/115,Pi 2.0 Assistant v4.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/116,Vector Database Engine v4.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/117,Weaviate Cloud v4.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/118,Vector Search API v4.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/119,Chroma DB Open Source v4.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/120,LangSmith Platform v5.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/121,LlamaCloud v5.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/122,W&B Prompts v5.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/123,Replicate Cloud Inference v5.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/124,GPT-NeoX v5.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/125,GroqLPU Inference Engine v5.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/126,Samba-1 Suite v5.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/127,Cerebras CS-3 v5.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/128,Etched SDK v5.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/129,Devin AI Software Engineer v5.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/130,Harvey Vault v5.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/131,Synthesia Video Studio v5.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/132,Conversational AI v5.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/133,ChatGPT,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/134,Claude 3 Opus v5.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/135,Rerank v5.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/136,Mistral Large 2,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/137,Stable Diffusion 3 v5.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/138,Diffusers,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/139,Midjourney v6 v5.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/140,Frame Interpolation v5.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/141,Scale GenAI Platform v5.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/142,Perplexity Pro v5.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/143,Glean Assistant v5.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/144,Adept Workstation v5.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/145,Character c.ai v5.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/146,Together Fine-Tuning v5.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/147,Anyscale Ray Platform v5.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/148,Inflection Engine v5.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/149,Pinecone Serverless v5.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/150,Hybrid Search Engine v6.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/151,Qdrant Managed Cloud v6.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/152,Chroma Cloud v6.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/153,LangSmith Platform v6.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/154,LlamaCloud v6.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/155,W&B Prompts v6.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/156,Replicate Model Registry v6.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/157,GPT-NeoX v6.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/158,GroqCloud API v6.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/159,SambaNova SN40L Chip v6.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/160,Wafer-Scale Engine 3 v6.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/161,Sohu Transformer ASIC v6.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/162,Devin Enterprise v6.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/163,Harvey Legal AI v6.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/164,AI Avatars v4 v6.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/165,Conversational AI v6.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/166,Whisper,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/167,Claude Enterprise v6.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/168,Cohere Toolkit v6.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/169,Le Chat v6.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/170,Stable Audio 2 v6.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/171,Hugging Face Hub v6.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/172,Midjourney v6 v6.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/173,Gen-3 Alpha v6.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/174,Scale GenAI Platform v6.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/175,Perplexity Pro v6.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/176,Glean Assistant v6.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/177,ACT-1 Agent v6.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/178,Character c.ai v6.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/179,Together Fine-Tuning v6.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/180,Anyscale Endpoints v7.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/181,Pi 2.0 Assistant v7.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/182,Vector Database Engine v7.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/183,Weaviate Cloud v7.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/184,Vector Search API v7.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/185,Chroma DB Open Source v7.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/186,LangSmith Platform v7.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/187,LlamaCloud v7.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/188,W&B Prompts v7.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/189,Replicate Cloud Inference v7.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/190,GPT-NeoX v7.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/191,GroqLPU Inference Engine v7.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/192,Samba-1 Suite v7.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/193,Cerebras CS-3 v7.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/194,Etched SDK v7.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/195,Devin AI Software Engineer v7.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/196,Harvey Vault v7.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/197,Synthesia Video Studio v7.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/198,Conversational AI v7.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/199,ChatGPT v7.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/200,Constitutional AI v7.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/201,Command R+ v7.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/202,Codestral v7.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/203,Stable Video Diffusion v7.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/204,Datasets v7.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/205,Midjourney v6 v7.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/206,Gen-2 v7.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/207,Scale GenAI Platform v7.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/208,Perplexity Pro v7.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/209,Glean Assistant v7.0,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/210,Adept Workstation v8.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/211,Character c.ai v8.0,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/212,Together Fine-Tuning v8.0,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/213,Anyscale Ray Platform v8.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/214,Inflection Engine v8.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/215,Pinecone Serverless v8.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/216,Hybrid Search Engine v8.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/217,Qdrant Managed Cloud v8.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/218,Chroma Cloud v8.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/219,LangSmith Platform v8.0,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/220,LlamaCloud v8.0,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/221,W&B Prompts v8.0,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/222,Replicate Model Registry v8.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/223,GPT-NeoX v8.0,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/224,GroqCloud API v8.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/225,SambaNova SN40L Chip v8.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/226,Wafer-Scale Engine 3 v8.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/227,Sohu Transformer ASIC v8.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/228,Devin Enterprise v8.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/229,Harvey Legal AI v8.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/230,AI Avatars v4 v8.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/231,Conversational AI v8.0,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/232,Whisper v8.0,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/233,Claude 3.5 Sonnet v8.0,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/234,Embed v3 v8.0,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/235,Mistral NeMo v8.0,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/236,Stable LM v8.0,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/237,Transformers v8.0,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/238,Midjourney v6 v8.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/239,Motion Brush v8.0,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/240,Scale GenAI Platform v9.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/241,Perplexity Pro v9.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/242,Glean Assistant v9.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/243,ACT-1 Agent v9.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/244,Character c.ai v9.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/245,Together Fine-Tuning v9.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/246,Anyscale Endpoints v9.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/247,Pi 2.0 Assistant v9.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/248,Vector Database Engine v9.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/249,Weaviate Cloud v9.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/250,Vector Search API v9.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/251,Chroma DB Open Source v9.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/252,LangSmith Platform v9.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/253,LlamaCloud v9.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/254,W&B Prompts v9.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/255,Replicate Cloud Inference v9.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/256,GPT-NeoX v9.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/257,GroqLPU Inference Engine v9.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/258,Samba-1 Suite v9.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/259,Cerebras CS-3 v9.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/260,Etched SDK v9.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/261,Devin AI Software Engineer v9.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/262,Harvey Vault v9.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/263,Synthesia Video Studio v9.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/264,Conversational AI v9.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/265,ChatGPT v9.0,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/266,Claude 3 Opus v9.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/267,Rerank v9.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/268,Pixtral v9.0,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/269,Stable Diffusion 3 v9.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/270,AutoTrain v10.0,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/271,Midjourney v6 v10.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/272,Frame Interpolation v10.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/273,Scale GenAI Platform v10.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/274,Perplexity Pro v10.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/275,Glean Assistant v10.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/276,Adept Workstation v10.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/277,Character c.ai v10.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/278,Together Fine-Tuning v10.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/279,Anyscale Ray Platform v10.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/280,Inflection Engine v10.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/281,Pinecone Serverless v10.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/282,Hybrid Search Engine v10.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/283,Qdrant Managed Cloud v10.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/284,Chroma Cloud v10.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/285,LangSmith Platform v10.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/286,LlamaCloud v10.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/287,W&B Prompts v10.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/288,Replicate Model Registry v10.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/289,GPT-NeoX v10.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/290,GroqCloud API v10.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/291,SambaNova SN40L Chip v10.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/292,Wafer-Scale Engine 3 v10.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/293,Sohu Transformer ASIC v10.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/294,Devin Enterprise v10.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/295,Harvey Legal AI v10.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/296,AI Avatars v4 v10.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/297,Conversational AI v10.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/298,Whisper v10.0,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/299,Claude Enterprise v10.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/300,Cohere Toolkit v11.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/301,Mistral Large 2 v11.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/302,Stable Audio 2 v11.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/303,Diffusers v11.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/304,Midjourney v6 v11.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/305,Gen-3 Alpha v11.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/306,Scale GenAI Platform v11.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/307,Perplexity Pro v11.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/308,Glean Assistant v11.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/309,ACT-1 Agent v11.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/310,Character c.ai v11.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/311,Together Fine-Tuning v11.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/312,Anyscale Endpoints v11.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/313,Pi 2.0 Assistant v11.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/314,Vector Database Engine v11.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/315,Weaviate Cloud v11.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/316,Vector Search API v11.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/317,Chroma DB Open Source v11.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/318,LangSmith Platform v11.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/319,LlamaCloud v11.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/320,W&B Prompts v11.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/321,Replicate Cloud Inference v11.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/322,GPT-NeoX v11.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/323,GroqLPU Inference Engine v11.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/324,Samba-1 Suite v11.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/325,Cerebras CS-3 v11.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/326,Etched SDK v11.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/327,Devin AI Software Engineer v11.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/328,Harvey Vault v11.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/329,Synthesia Video Studio v11.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/330,Conversational AI v12.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/331,ChatGPT v12.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/332,Constitutional AI v12.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/333,Command R+ v12.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/334,Le Chat v12.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/335,Stable Video Diffusion v12.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/336,Hugging Face Hub v12.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/337,Midjourney v6 v12.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/338,Gen-2 v12.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/339,Scale GenAI Platform v12.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/340,Perplexity Pro v12.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/341,Glean Assistant v12.0,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/342,Adept Workstation v12.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/343,Character c.ai v12.0,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/344,Together Fine-Tuning v12.0,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/345,Anyscale Ray Platform v12.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/346,Inflection Engine v12.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/347,Pinecone Serverless v12.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/348,Hybrid Search Engine v12.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/349,Qdrant Managed Cloud v12.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/350,Chroma Cloud v12.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/351,LangSmith Platform v12.0,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/352,LlamaCloud v12.0,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/353,W&B Prompts v12.0,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/354,Replicate Model Registry v12.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/355,GPT-NeoX v12.0,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/356,GroqCloud API v12.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/357,SambaNova SN40L Chip v12.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/358,Wafer-Scale Engine 3 v12.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/359,Sohu Transformer ASIC v12.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/360,Devin Enterprise v13.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/361,Harvey Legal AI v13.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/362,AI Avatars v4 v13.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/363,Conversational AI v13.0,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/364,Whisper v13.0,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/365,Claude 3.5 Sonnet v13.0,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/366,Embed v3 v13.0,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/367,Codestral v13.0,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/368,Stable LM v13.0,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/369,Datasets v13.0,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/370,Midjourney v6 v13.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/371,Motion Brush v13.0,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/372,Scale GenAI Platform v13.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/373,Perplexity Pro v13.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/374,Glean Assistant v13.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/375,ACT-1 Agent v13.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/376,Character c.ai v13.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/377,Together Fine-Tuning v13.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/378,Anyscale Endpoints v13.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/379,Pi 2.0 Assistant v13.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/380,Vector Database Engine v13.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/381,Weaviate Cloud v13.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/382,Vector Search API v13.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/383,Chroma DB Open Source v13.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/384,LangSmith Platform v13.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/385,LlamaCloud v13.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/386,W&B Prompts v13.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/387,Replicate Cloud Inference v13.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/388,GPT-NeoX v13.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/389,GroqLPU Inference Engine v13.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/390,Samba-1 Suite v14.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/391,Cerebras CS-3 v14.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/392,Etched SDK v14.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/393,Devin AI Software Engineer v14.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/394,Harvey Vault v14.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/395,Synthesia Video Studio v14.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/396,Conversational AI v14.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/397,ChatGPT v14.0,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/398,Claude 3 Opus v14.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/399,Rerank v14.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/400,Mistral NeMo v14.0,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/401,Stable Diffusion 3 v14.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/402,Transformers v14.0,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/403,Midjourney v6 v14.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/404,Frame Interpolation v14.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/405,Scale GenAI Platform v14.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/406,Perplexity Pro v14.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/407,Glean Assistant v14.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/408,Adept Workstation v14.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/409,Character c.ai v14.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/410,Together Fine-Tuning v14.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/411,Anyscale Ray Platform v14.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/412,Inflection Engine v14.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/413,Pinecone Serverless v14.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/414,Hybrid Search Engine v14.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/415,Qdrant Managed Cloud v14.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/416,Chroma Cloud v14.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/417,LangSmith Platform v14.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/418,LlamaCloud v14.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/419,W&B Prompts v14.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/420,Replicate Model Registry v15.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/421,GPT-NeoX v15.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/422,GroqCloud API v15.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/423,SambaNova SN40L Chip v15.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/424,Wafer-Scale Engine 3 v15.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/425,Sohu Transformer ASIC v15.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/426,Devin Enterprise v15.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/427,Harvey Legal AI v15.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/428,AI Avatars v4 v15.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/429,Conversational AI v15.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/430,Whisper v15.0,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/431,Claude Enterprise v15.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/432,Cohere Toolkit v15.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/433,Pixtral v15.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/434,Stable Audio 2 v15.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/435,AutoTrain v15.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/436,Midjourney v6 v15.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/437,Gen-3 Alpha v15.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/438,Scale GenAI Platform v15.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/439,Perplexity Pro v15.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/440,Glean Assistant v15.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/441,ACT-1 Agent v15.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/442,Character c.ai v15.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/443,Together Fine-Tuning v15.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/444,Anyscale Endpoints v15.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/445,Pi 2.0 Assistant v15.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/446,Vector Database Engine v15.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/447,Weaviate Cloud v15.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/448,Vector Search API v15.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/449,Chroma DB Open Source v15.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/450,LangSmith Platform v16.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/451,LlamaCloud v16.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/452,W&B Prompts v16.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/453,Replicate Cloud Inference v16.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/454,GPT-NeoX v16.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/455,GroqLPU Inference Engine v16.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/456,Samba-1 Suite v16.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/457,Cerebras CS-3 v16.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/458,Etched SDK v16.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/459,Devin AI Software Engineer v16.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/460,Harvey Vault v16.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/461,Synthesia Video Studio v16.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/462,Conversational AI v16.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/463,ChatGPT v16.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/464,Constitutional AI v16.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/465,Command R+ v16.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/466,Mistral Large 2 v16.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/467,Stable Video Diffusion v16.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/468,Diffusers v16.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/469,Midjourney v6 v16.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/470,Gen-2 v16.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/471,Scale GenAI Platform v16.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/472,Perplexity Pro v16.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/473,Glean Assistant v16.0,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/474,Adept Workstation v16.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/475,Character c.ai v16.0,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/476,Together Fine-Tuning v16.0,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/477,Anyscale Ray Platform v16.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/478,Inflection Engine v16.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/479,Pinecone Serverless v16.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/480,Hybrid Search Engine v17.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/481,Qdrant Managed Cloud v17.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/482,Chroma Cloud v17.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/483,LangSmith Platform v17.0,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/484,LlamaCloud v17.0,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/485,W&B Prompts v17.0,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/486,Replicate Model Registry v17.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/487,GPT-NeoX v17.0,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/488,GroqCloud API v17.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/489,SambaNova SN40L Chip v17.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/490,Wafer-Scale Engine 3 v17.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/491,Sohu Transformer ASIC v17.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/492,Devin Enterprise v17.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/493,Harvey Legal AI v17.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/494,AI Avatars v4 v17.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/495,Conversational AI v17.0,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/496,Whisper v17.0,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/497,Claude 3.5 Sonnet v17.0,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/498,Embed v3 v17.0,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/499,Le Chat v17.0,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/500,Stable LM v17.0,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/501,Hugging Face Hub v17.0,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/502,Midjourney v6 v17.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/503,Motion Brush v17.0,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/504,Scale GenAI Platform v17.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/505,Perplexity Pro v17.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/506,Glean Assistant v17.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/507,ACT-1 Agent v17.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/508,Character c.ai v17.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/509,Together Fine-Tuning v17.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/510,Anyscale Endpoints v18.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/511,Pi 2.0 Assistant v18.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/512,Vector Database Engine v18.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/513,Weaviate Cloud v18.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/514,Vector Search API v18.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/515,Chroma DB Open Source v18.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/516,LangSmith Platform v18.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/517,LlamaCloud v18.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/518,W&B Prompts v18.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/519,Replicate Cloud Inference v18.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/520,GPT-NeoX v18.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/521,GroqLPU Inference Engine v18.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/522,Samba-1 Suite v18.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/523,Cerebras CS-3 v18.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/524,Etched SDK v18.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/525,Devin AI Software Engineer v18.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/526,Harvey Vault v18.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/527,Synthesia Video Studio v18.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/528,Conversational AI v18.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/529,ChatGPT v18.0,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/530,Claude 3 Opus v18.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/531,Rerank v18.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/532,Codestral v18.0,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/533,Stable Diffusion 3 v18.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/534,Datasets v18.0,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/535,Midjourney v6 v18.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/536,Frame Interpolation v18.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/537,Scale GenAI Platform v18.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/538,Perplexity Pro v18.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/539,Glean Assistant v18.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/540,Adept Workstation v19.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/541,Character c.ai v19.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/542,Together Fine-Tuning v19.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/543,Anyscale Ray Platform v19.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/544,Inflection Engine v19.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/545,Pinecone Serverless v19.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/546,Hybrid Search Engine v19.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/547,Qdrant Managed Cloud v19.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/548,Chroma Cloud v19.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/549,LangSmith Platform v19.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/550,LlamaCloud v19.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/551,W&B Prompts v19.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/552,Replicate Model Registry v19.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/553,GPT-NeoX v19.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/554,GroqCloud API v19.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/555,SambaNova SN40L Chip v19.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/556,Wafer-Scale Engine 3 v19.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/557,Sohu Transformer ASIC v19.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/558,Devin Enterprise v19.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/559,Harvey Legal AI v19.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/560,AI Avatars v4 v19.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/561,Conversational AI v19.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/562,Whisper v19.0,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/563,Claude Enterprise v19.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/564,Cohere Toolkit v19.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/565,Mistral NeMo v19.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/566,Stable Audio 2 v19.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/567,Transformers v19.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/568,Midjourney v6 v19.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/569,Gen-3 Alpha v19.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/570,Scale GenAI Platform v20.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/571,Perplexity Pro v20.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/572,Glean Assistant v20.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/573,ACT-1 Agent v20.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/574,Character c.ai v20.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/575,Together Fine-Tuning v20.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/576,Anyscale Endpoints v20.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/577,Pi 2.0 Assistant v20.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/578,Vector Database Engine v20.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/579,Weaviate Cloud v20.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/580,Vector Search API v20.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/581,Chroma DB Open Source v20.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/582,LangSmith Platform v20.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/583,LlamaCloud v20.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/584,W&B Prompts v20.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/585,Replicate Cloud Inference v20.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/586,GPT-NeoX v20.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/587,GroqLPU Inference Engine v20.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/588,Samba-1 Suite v20.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/589,Cerebras CS-3 v20.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/590,Etched SDK v20.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/591,Devin AI Software Engineer v20.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/592,Harvey Vault v20.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/593,Synthesia Video Studio v20.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/594,Conversational AI v20.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/595,ChatGPT v20.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/596,Constitutional AI v20.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/597,Command R+ v20.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/598,Pixtral v20.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/599,Stable Video Diffusion v20.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/600,AutoTrain v21.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/601,Midjourney v6 v21.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/602,Gen-2 v21.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/603,Scale GenAI Platform v21.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/604,Perplexity Pro v21.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/605,Glean Assistant v21.0,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/606,Adept Workstation v21.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/607,Character c.ai v21.0,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/608,Together Fine-Tuning v21.0,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/609,Anyscale Ray Platform v21.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/610,Inflection Engine v21.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/611,Pinecone Serverless v21.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/612,Hybrid Search Engine v21.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/613,Qdrant Managed Cloud v21.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/614,Chroma Cloud v21.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/615,LangSmith Platform v21.0,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/616,LlamaCloud v21.0,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/617,W&B Prompts v21.0,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/618,Replicate Model Registry v21.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/619,GPT-NeoX v21.0,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/620,GroqCloud API v21.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/621,SambaNova SN40L Chip v21.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/622,Wafer-Scale Engine 3 v21.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/623,Sohu Transformer ASIC v21.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/624,Devin Enterprise v21.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/625,Harvey Legal AI v21.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/626,AI Avatars v4 v21.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/627,Conversational AI v21.0,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/628,Whisper v21.0,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/629,Claude 3.5 Sonnet v21.0,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/630,Embed v3 v22.0,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/631,Mistral Large 2 v22.0,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/632,Stable LM v22.0,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/633,Diffusers v22.0,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/634,Midjourney v6 v22.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/635,Motion Brush v22.0,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/636,Scale GenAI Platform v22.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/637,Perplexity Pro v22.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/638,Glean Assistant v22.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/639,ACT-1 Agent v22.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/640,Character c.ai v22.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/641,Together Fine-Tuning v22.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/642,Anyscale Endpoints v22.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/643,Pi 2.0 Assistant v22.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/644,Vector Database Engine v22.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/645,Weaviate Cloud v22.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/646,Vector Search API v22.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/647,Chroma DB Open Source v22.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/648,LangSmith Platform v22.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/649,LlamaCloud v22.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/650,W&B Prompts v22.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/651,Replicate Cloud Inference v22.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/652,GPT-NeoX v22.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/653,GroqLPU Inference Engine v22.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/654,Samba-1 Suite v22.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/655,Cerebras CS-3 v22.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/656,Etched SDK v22.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/657,Devin AI Software Engineer v22.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/658,Harvey Vault v22.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/659,Synthesia Video Studio v22.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/660,Conversational AI v23.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/661,ChatGPT v23.0,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/662,Claude 3 Opus v23.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/663,Rerank v23.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/664,Le Chat v23.0,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/665,Stable Diffusion 3 v23.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/666,Hugging Face Hub v23.0,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/667,Midjourney v6 v23.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/668,Frame Interpolation v23.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/669,Scale GenAI Platform v23.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/670,Perplexity Pro v23.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/671,Glean Assistant v23.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/672,Adept Workstation v23.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/673,Character c.ai v23.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/674,Together Fine-Tuning v23.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/675,Anyscale Ray Platform v23.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/676,Inflection Engine v23.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/677,Pinecone Serverless v23.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/678,Hybrid Search Engine v23.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/679,Qdrant Managed Cloud v23.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/680,Chroma Cloud v23.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/681,LangSmith Platform v23.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/682,LlamaCloud v23.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/683,W&B Prompts v23.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/684,Replicate Model Registry v23.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/685,GPT-NeoX v23.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/686,GroqCloud API v23.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/687,SambaNova SN40L Chip v23.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/688,Wafer-Scale Engine 3 v23.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/689,Sohu Transformer ASIC v23.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/690,Devin Enterprise v24.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/691,Harvey Legal AI v24.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/692,AI Avatars v4 v24.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/693,Conversational AI v24.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/694,Whisper v24.0,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/695,Claude Enterprise v24.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/696,Cohere Toolkit v24.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/697,Codestral v24.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/698,Stable Audio 2 v24.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/699,Datasets v24.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/700,Midjourney v6 v24.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/701,Gen-3 Alpha v24.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/702,Scale GenAI Platform v24.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/703,Perplexity Pro v24.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/704,Glean Assistant v24.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/705,ACT-1 Agent v24.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/706,Character c.ai v24.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/707,Together Fine-Tuning v24.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/708,Anyscale Endpoints v24.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/709,Pi 2.0 Assistant v24.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/710,Vector Database Engine v24.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/711,Weaviate Cloud v24.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/712,Vector Search API v24.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/713,Chroma DB Open Source v24.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/714,LangSmith Platform v24.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/715,LlamaCloud v24.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/716,W&B Prompts v24.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/717,Replicate Cloud Inference v24.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/718,GPT-NeoX v24.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/719,GroqLPU Inference Engine v24.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/720,Samba-1 Suite v25.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/721,Cerebras CS-3 v25.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/722,Etched SDK v25.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/723,Devin AI Software Engineer v25.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/724,Harvey Vault v25.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/725,Synthesia Video Studio v25.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/726,Conversational AI v25.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/727,ChatGPT v25.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/728,Constitutional AI v25.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/729,Command R+ v25.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/730,Mistral NeMo v25.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/731,Stable Video Diffusion v25.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/732,Transformers v25.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/733,Midjourney v6 v25.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/734,Gen-2 v25.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/735,Scale GenAI Platform v25.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/736,Perplexity Pro v25.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/737,Glean Assistant v25.0,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/738,Adept Workstation v25.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/739,Character c.ai v25.0,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/740,Together Fine-Tuning v25.0,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/741,Anyscale Ray Platform v25.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/742,Inflection Engine v25.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/743,Pinecone Serverless v25.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/744,Hybrid Search Engine v25.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/745,Qdrant Managed Cloud v25.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/746,Chroma Cloud v25.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/747,LangSmith Platform v25.0,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/748,LlamaCloud v25.0,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/749,W&B Prompts v25.0,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/750,Replicate Model Registry v26.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/751,GPT-NeoX v26.0,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/752,GroqCloud API v26.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/753,SambaNova SN40L Chip v26.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/754,Wafer-Scale Engine 3 v26.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/755,Sohu Transformer ASIC v26.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/756,Devin Enterprise v26.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/757,Harvey Legal AI v26.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/758,AI Avatars v4 v26.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/759,Conversational AI v26.0,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/760,Whisper v26.0,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/761,Claude 3.5 Sonnet v26.0,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/762,Embed v3 v26.0,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/763,Pixtral v26.0,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/764,Stable LM v26.0,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/765,AutoTrain v26.0,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/766,Midjourney v6 v26.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/767,Motion Brush v26.0,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/768,Scale GenAI Platform v26.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/769,Perplexity Pro v26.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/770,Glean Assistant v26.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/771,ACT-1 Agent v26.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/772,Character c.ai v26.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/773,Together Fine-Tuning v26.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/774,Anyscale Endpoints v26.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/775,Pi 2.0 Assistant v26.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/776,Vector Database Engine v26.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/777,Weaviate Cloud v26.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/778,Vector Search API v26.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/779,Chroma DB Open Source v26.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/780,LangSmith Platform v27.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/781,LlamaCloud v27.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/782,W&B Prompts v27.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/783,Replicate Cloud Inference v27.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/784,GPT-NeoX v27.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/785,GroqLPU Inference Engine v27.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/786,Samba-1 Suite v27.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/787,Cerebras CS-3 v27.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/788,Etched SDK v27.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/789,Devin AI Software Engineer v27.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/790,Harvey Vault v27.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/791,Synthesia Video Studio v27.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/792,Conversational AI v27.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/793,ChatGPT v27.0,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/794,Claude 3 Opus v27.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/795,Rerank v27.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/796,Mistral Large 2 v27.0,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/797,Stable Diffusion 3 v27.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/798,Diffusers v27.0,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/799,Midjourney v6 v27.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/800,Frame Interpolation v27.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/801,Scale GenAI Platform v27.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/802,Perplexity Pro v27.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/803,Glean Assistant v27.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/804,Adept Workstation v27.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/805,Character c.ai v27.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/806,Together Fine-Tuning v27.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/807,Anyscale Ray Platform v27.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/808,Inflection Engine v27.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/809,Pinecone Serverless v27.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/810,Hybrid Search Engine v28.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/811,Qdrant Managed Cloud v28.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/812,Chroma Cloud v28.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/813,LangSmith Platform v28.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/814,LlamaCloud v28.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/815,W&B Prompts v28.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/816,Replicate Model Registry v28.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/817,GPT-NeoX v28.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/818,GroqCloud API v28.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/819,SambaNova SN40L Chip v28.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/820,Wafer-Scale Engine 3 v28.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/821,Sohu Transformer ASIC v28.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/822,Devin Enterprise v28.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/823,Harvey Legal AI v28.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/824,AI Avatars v4 v28.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/825,Conversational AI v28.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/826,Whisper v28.0,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/827,Claude Enterprise v28.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/828,Cohere Toolkit v28.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/829,Le Chat v28.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/830,Stable Audio 2 v28.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/831,Hugging Face Hub v28.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/832,Midjourney v6 v28.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/833,Gen-3 Alpha v28.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/834,Scale GenAI Platform v28.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/835,Perplexity Pro v28.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/836,Glean Assistant v28.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/837,ACT-1 Agent v28.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/838,Character c.ai v28.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/839,Together Fine-Tuning v28.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/840,Anyscale Endpoints v29.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/841,Pi 2.0 Assistant v29.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/842,Vector Database Engine v29.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/843,Weaviate Cloud v29.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/844,Vector Search API v29.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/845,Chroma DB Open Source v29.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/846,LangSmith Platform v29.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/847,LlamaCloud v29.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/848,W&B Prompts v29.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/849,Replicate Cloud Inference v29.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/850,GPT-NeoX v29.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/851,GroqLPU Inference Engine v29.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/852,Samba-1 Suite v29.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/853,Cerebras CS-3 v29.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/854,Etched SDK v29.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/855,Devin AI Software Engineer v29.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/856,Harvey Vault v29.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/857,Synthesia Video Studio v29.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/858,Conversational AI v29.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/859,ChatGPT v29.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/860,Constitutional AI v29.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/861,Command R+ v29.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/862,Codestral v29.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/863,Stable Video Diffusion v29.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/864,Datasets v29.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/865,Midjourney v6 v29.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/866,Gen-2 v29.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/867,Scale GenAI Platform v29.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/868,Perplexity Pro v29.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/869,Glean Assistant v29.0,Glean,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/870,Adept Workstation v30.0,Adept AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/871,Character c.ai v30.0,Character.ai,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/872,Together Fine-Tuning v30.0,Together AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/873,Anyscale Ray Platform v30.0,Anyscale,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/874,Inflection Engine v30.0,Inflection AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/875,Pinecone Serverless v30.0,Pinecone,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/876,Hybrid Search Engine v30.0,Weaviate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/877,Qdrant Managed Cloud v30.0,Qdrant,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/878,Chroma Cloud v30.0,Chroma,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/879,LangSmith Platform v30.0,LangChain,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/880,LlamaCloud v30.0,LlamaIndex,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/881,W&B Prompts v30.0,Weights & Biases,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/882,Replicate Model Registry v30.0,Replicate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/883,GPT-NeoX v30.0,EleutherAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/884,GroqCloud API v30.0,Groq,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/885,SambaNova SN40L Chip v30.0,SambaNova,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/886,Wafer-Scale Engine 3 v30.0,Cerebras Systems,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/887,Sohu Transformer ASIC v30.0,Etched,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/888,Devin Enterprise v30.0,Cognition AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/889,Harvey Legal AI v30.0,Harvey AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/890,AI Avatars v4 v30.0,Synthesia,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/891,Conversational AI v30.0,ElevenLabs,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/892,Whisper v30.0,OpenAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/893,Claude 3.5 Sonnet v30.0,Anthropic,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/894,Embed v3 v30.0,Cohere,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/895,Mistral NeMo v30.0,Mistral AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/896,Stable LM v30.0,Stability AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/897,Transformers v30.0,Hugging Face,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/898,Midjourney v6 v30.0,Midjourney,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/899,Motion Brush v30.0,Runway,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/900,Scale GenAI Platform v31.0,Scale AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/901,Perplexity Pro v31.0,Perplexity AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/902,Glean Assistant v31.0,Glean,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/903,ACT-1 Agent v31.0,Adept AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/904,Character c.ai v31.0,Character.ai,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/905,Together Fine-Tuning v31.0,Together AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/906,Anyscale Endpoints v31.0,Anyscale,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/907,Pi 2.0 Assistant v31.0,Inflection AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/908,Vector Database Engine v31.0,Pinecone,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/909,Weaviate Cloud v31.0,Weaviate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/910,Vector Search API v31.0,Qdrant,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/911,Chroma DB Open Source v31.0,Chroma,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/912,LangSmith Platform v31.0,LangChain,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/913,LlamaCloud v31.0,LlamaIndex,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/914,W&B Prompts v31.0,Weights & Biases,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/915,Replicate Cloud Inference v31.0,Replicate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/916,GPT-NeoX v31.0,EleutherAI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/917,GroqLPU Inference Engine v31.0,Groq,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/918,Samba-1 Suite v31.0,SambaNova,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/919,Cerebras CS-3 v31.0,Cerebras Systems,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/920,Etched SDK v31.0,Etched,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/921,Devin AI Software Engineer v31.0,Cognition AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/922,Harvey Vault v31.0,Harvey AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/923,Synthesia Video Studio v31.0,Synthesia,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/924,Conversational AI v31.0,ElevenLabs,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/925,ChatGPT v31.0,OpenAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/926,Claude 3 Opus v31.0,Anthropic,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/927,Rerank v31.0,Cohere,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/928,Pixtral v31.0,Mistral AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/929,Stable Diffusion 3 v31.0,Stability AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/930,AutoTrain v32.0,Hugging Face,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/931,Midjourney v6 v32.0,Midjourney,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/932,Frame Interpolation v32.0,Runway,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/933,Scale GenAI Platform v32.0,Scale AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/934,Perplexity Pro v32.0,Perplexity AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/935,Glean Assistant v32.0,Glean,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/936,Adept Workstation v32.0,Adept AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/937,Character c.ai v32.0,Character.ai,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/938,Together Fine-Tuning v32.0,Together AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/939,Anyscale Ray Platform v32.0,Anyscale,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/940,Inflection Engine v32.0,Inflection AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/941,Pinecone Serverless v32.0,Pinecone,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/942,Hybrid Search Engine v32.0,Weaviate,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/943,Qdrant Managed Cloud v32.0,Qdrant,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/944,Chroma Cloud v32.0,Chroma,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/945,LangSmith Platform v32.0,LangChain,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/946,LlamaCloud v32.0,LlamaIndex,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/947,W&B Prompts v32.0,Weights & Biases,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/948,Replicate Model Registry v32.0,Replicate,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/949,GPT-NeoX v32.0,EleutherAI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/950,GroqCloud API v32.0,Groq,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/951,SambaNova SN40L Chip v32.0,SambaNova,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/952,Wafer-Scale Engine 3 v32.0,Cerebras Systems,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/953,Sohu Transformer ASIC v32.0,Etched,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/954,Devin Enterprise v32.0,Cognition AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/955,Harvey Legal AI v32.0,Harvey AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/956,AI Avatars v4 v32.0,Synthesia,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/957,Conversational AI v32.0,ElevenLabs,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/958,Whisper v32.0,OpenAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/959,Claude Enterprise v32.0,Anthropic,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/960,Cohere Toolkit v33.0,Cohere,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/961,Mistral Large 2 v33.0,Mistral AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/962,Stable Audio 2 v33.0,Stability AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/963,Diffusers v33.0,Hugging Face,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/964,Midjourney v6 v33.0,Midjourney,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/965,Gen-3 Alpha v33.0,Runway,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/966,Scale GenAI Platform v33.0,Scale AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/967,Perplexity Pro v33.0,Perplexity AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://glean.com/products/968,Glean Assistant v33.0,Glean,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://adept.ai/products/969,ACT-1 Agent v33.0,Adept AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://character.ai/products/970,Character c.ai v33.0,Character.ai,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://together.ai/products/971,Together Fine-Tuning v33.0,Together AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anyscale.com/products/972,Anyscale Endpoints v33.0,Anyscale,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://inflection.ai/products/973,Pi 2.0 Assistant v33.0,Inflection AI,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://pinecone.io/products/974,Vector Database Engine v33.0,Pinecone,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://weaviate.io/products/975,Weaviate Cloud v33.0,Weaviate,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://qdrant.tech/products/976,Vector Search API v33.0,Qdrant,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://trychroma.com/products/977,Chroma DB Open Source v33.0,Chroma,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://langchain.com/products/978,LangSmith Platform v33.0,LangChain,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://llamaindex.ai/products/979,LlamaCloud v33.0,LlamaIndex,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://wandb.ai/products/980,W&B Prompts v33.0,Weights & Biases,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://replicate.com/products/981,Replicate Cloud Inference v33.0,Replicate,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://eleuther.ai/products/982,GPT-NeoX v33.0,EleutherAI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://groq.com/products/983,GroqLPU Inference Engine v33.0,Groq,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://sambanova.ai/products/984,Samba-1 Suite v33.0,SambaNova,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cerebras.ai/products/985,Cerebras CS-3 v33.0,Cerebras Systems,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://etched.com/products/986,Etched SDK v33.0,Etched,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cognition-labs.com/products/987,Devin AI Software Engineer v33.0,Cognition AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://harvey.ai/products/988,Harvey Vault v33.0,Harvey AI,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://synthesia.io/products/989,Synthesia Video Studio v33.0,Synthesia,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://elevenlabs.io/products/990,Conversational AI v34.0,ElevenLabs,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://openai.com/products/991,ChatGPT v34.0,OpenAI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://anthropic.com/products/992,Constitutional AI v34.0,Anthropic,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://cohere.com/products/993,Command R+ v34.0,Cohere,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://mistral.ai/products/994,Le Chat v34.0,Mistral AI,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://stability.ai/products/995,Stable Video Diffusion v34.0,Stability AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://huggingface.co/products/996,Hugging Face Hub v34.0,Hugging Face,FREE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://midjourney.com/products/997,Midjourney v6 v34.0,Midjourney,FREEMIUM,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://runwayml.com/products/998,Gen-2 v34.0,Runway,PAID,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://scale.com/products/999,Scale GenAI Platform v34.0,Scale AI,ENTERPRISE,2026-08-16T15:06:53.999699+00:00
+1.0,PRODUCT,ProductHunt / AI Tools Registry,https://perplexity.ai/products/1000,Perplexity Pro v34.0,Perplexity AI,FREE,2026-08-16T15:06:53.999699+00:00

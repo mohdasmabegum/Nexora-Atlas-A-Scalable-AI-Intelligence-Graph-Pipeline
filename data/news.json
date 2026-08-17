@@ -1,0 +1,1430 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anthropic Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T08:36:53.999699+00:00",
+      "summary": "Key industry updates regarding Anthropic's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/1"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cohere Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T02:20:53.999699+00:00",
+      "summary": "Key industry updates regarding Cohere's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/2"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Mistral AI Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-15T23:43:53.999699+00:00",
+      "summary": "Key industry updates regarding Mistral AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/3"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Stability AI Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T17:14:53.999699+00:00",
+      "summary": "Key industry updates regarding Stability AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/4"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Hugging Face Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-15T18:20:53.999699+00:00",
+      "summary": "Key industry updates regarding Hugging Face's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/5"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Midjourney Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-15T16:46:53.999699+00:00",
+      "summary": "Key industry updates regarding Midjourney's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/6"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Runway Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-15T19:59:53.999699+00:00",
+      "summary": "Key industry updates regarding Runway's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/7"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Scale AI Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T07:24:53.999699+00:00",
+      "summary": "Key industry updates regarding Scale AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/8"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Perplexity AI Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-15T19:25:53.999699+00:00",
+      "summary": "Key industry updates regarding Perplexity AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/9"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Glean Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-15T20:49:53.999699+00:00",
+      "summary": "Key industry updates regarding Glean's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/10"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Adept AI Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T06:12:53.999699+00:00",
+      "summary": "Key industry updates regarding Adept AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/11"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Character.ai Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T07:54:53.999699+00:00",
+      "summary": "Key industry updates regarding Character.ai's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/12"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Together AI Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T10:52:53.999699+00:00",
+      "summary": "Key industry updates regarding Together AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/13"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anyscale Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T13:14:53.999699+00:00",
+      "summary": "Key industry updates regarding Anyscale's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/14"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Inflection AI Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T13:29:53.999699+00:00",
+      "summary": "Key industry updates regarding Inflection AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/15"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Pinecone Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T04:13:53.999699+00:00",
+      "summary": "Key industry updates regarding Pinecone's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/16"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weaviate Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T01:40:53.999699+00:00",
+      "summary": "Key industry updates regarding Weaviate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/17"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Qdrant Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T05:23:53.999699+00:00",
+      "summary": "Key industry updates regarding Qdrant's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/18"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Chroma Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T11:47:53.999699+00:00",
+      "summary": "Key industry updates regarding Chroma's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/19"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LangChain Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T20:57:53.999699+00:00",
+      "summary": "Key industry updates regarding LangChain's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/20"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LlamaIndex Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T14:19:53.999699+00:00",
+      "summary": "Key industry updates regarding LlamaIndex's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/21"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weights & Biases Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T00:14:53.999699+00:00",
+      "summary": "Key industry updates regarding Weights & Biases's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/22"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Replicate Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-15T21:45:53.999699+00:00",
+      "summary": "Key industry updates regarding Replicate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/23"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "EleutherAI Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T07:11:53.999699+00:00",
+      "summary": "Key industry updates regarding EleutherAI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/24"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Groq Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-15T22:12:53.999699+00:00",
+      "summary": "Key industry updates regarding Groq's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/25"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "SambaNova Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-15T23:44:53.999699+00:00",
+      "summary": "Key industry updates regarding SambaNova's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/26"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cerebras Systems Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-15T22:28:53.999699+00:00",
+      "summary": "Key industry updates regarding Cerebras Systems's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/27"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Etched Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T12:38:53.999699+00:00",
+      "summary": "Key industry updates regarding Etched's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/28"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cognition AI Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T09:25:53.999699+00:00",
+      "summary": "Key industry updates regarding Cognition AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/29"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Harvey AI Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T12:43:53.999699+00:00",
+      "summary": "Key industry updates regarding Harvey AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/30"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Synthesia Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T05:27:53.999699+00:00",
+      "summary": "Key industry updates regarding Synthesia's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/31"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "ElevenLabs Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-15T21:36:53.999699+00:00",
+      "summary": "Key industry updates regarding ElevenLabs's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/32"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "OpenAI Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T06:17:53.999699+00:00",
+      "summary": "Key industry updates regarding OpenAI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/33"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anthropic Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T10:22:53.999699+00:00",
+      "summary": "Key industry updates regarding Anthropic's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/34"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cohere Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-15T19:49:53.999699+00:00",
+      "summary": "Key industry updates regarding Cohere's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/35"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Mistral AI Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T08:35:53.999699+00:00",
+      "summary": "Key industry updates regarding Mistral AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/36"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Stability AI Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T12:19:53.999699+00:00",
+      "summary": "Key industry updates regarding Stability AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/37"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Hugging Face Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T07:35:53.999699+00:00",
+      "summary": "Key industry updates regarding Hugging Face's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/38"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Midjourney Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T09:21:53.999699+00:00",
+      "summary": "Key industry updates regarding Midjourney's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/39"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Runway Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T14:28:53.999699+00:00",
+      "summary": "Key industry updates regarding Runway's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/40"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Scale AI Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-15T21:18:53.999699+00:00",
+      "summary": "Key industry updates regarding Scale AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/41"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Perplexity AI Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T08:16:53.999699+00:00",
+      "summary": "Key industry updates regarding Perplexity AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/42"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Glean Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-15T16:15:53.999699+00:00",
+      "summary": "Key industry updates regarding Glean's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/43"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Adept AI Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T18:52:53.999699+00:00",
+      "summary": "Key industry updates regarding Adept AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/44"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Character.ai Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-15T17:12:53.999699+00:00",
+      "summary": "Key industry updates regarding Character.ai's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/45"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Together AI Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T14:54:53.999699+00:00",
+      "summary": "Key industry updates regarding Together AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/46"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anyscale Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T08:15:53.999699+00:00",
+      "summary": "Key industry updates regarding Anyscale's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/47"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Inflection AI Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T07:20:53.999699+00:00",
+      "summary": "Key industry updates regarding Inflection AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/48"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Pinecone Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T00:52:53.999699+00:00",
+      "summary": "Key industry updates regarding Pinecone's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/49"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weaviate Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-15T23:42:53.999699+00:00",
+      "summary": "Key industry updates regarding Weaviate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/50"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Qdrant Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-15T19:54:53.999699+00:00",
+      "summary": "Key industry updates regarding Qdrant's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/51"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Chroma Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T19:35:53.999699+00:00",
+      "summary": "Key industry updates regarding Chroma's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/52"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LangChain Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T09:54:53.999699+00:00",
+      "summary": "Key industry updates regarding LangChain's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/53"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LlamaIndex Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T11:46:53.999699+00:00",
+      "summary": "Key industry updates regarding LlamaIndex's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/54"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weights & Biases Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-15T20:49:53.999699+00:00",
+      "summary": "Key industry updates regarding Weights & Biases's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/55"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Replicate Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T04:27:53.999699+00:00",
+      "summary": "Key industry updates regarding Replicate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/56"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "EleutherAI Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-15T18:29:53.999699+00:00",
+      "summary": "Key industry updates regarding EleutherAI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/57"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Groq Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T05:22:53.999699+00:00",
+      "summary": "Key industry updates regarding Groq's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/58"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "SambaNova Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T08:00:53.999699+00:00",
+      "summary": "Key industry updates regarding SambaNova's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/59"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cerebras Systems Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T10:39:53.999699+00:00",
+      "summary": "Key industry updates regarding Cerebras Systems's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/60"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Etched Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T09:22:53.999699+00:00",
+      "summary": "Key industry updates regarding Etched's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/61"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cognition AI Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T13:50:53.999699+00:00",
+      "summary": "Key industry updates regarding Cognition AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/62"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Harvey AI Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T12:18:53.999699+00:00",
+      "summary": "Key industry updates regarding Harvey AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/63"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Synthesia Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-15T22:41:53.999699+00:00",
+      "summary": "Key industry updates regarding Synthesia's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/64"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "ElevenLabs Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T08:20:53.999699+00:00",
+      "summary": "Key industry updates regarding ElevenLabs's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/65"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "OpenAI Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-15T18:14:53.999699+00:00",
+      "summary": "Key industry updates regarding OpenAI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/66"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anthropic Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T12:18:53.999699+00:00",
+      "summary": "Key industry updates regarding Anthropic's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/67"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cohere Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T19:45:53.999699+00:00",
+      "summary": "Key industry updates regarding Cohere's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/68"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Mistral AI Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T08:17:53.999699+00:00",
+      "summary": "Key industry updates regarding Mistral AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/69"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Stability AI Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-15T17:00:53.999699+00:00",
+      "summary": "Key industry updates regarding Stability AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/70"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Hugging Face Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T09:40:53.999699+00:00",
+      "summary": "Key industry updates regarding Hugging Face's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/71"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Midjourney Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T06:30:53.999699+00:00",
+      "summary": "Key industry updates regarding Midjourney's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/72"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Runway Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T06:55:53.999699+00:00",
+      "summary": "Key industry updates regarding Runway's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/73"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Scale AI Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T08:19:53.999699+00:00",
+      "summary": "Key industry updates regarding Scale AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/74"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Perplexity AI Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T05:32:53.999699+00:00",
+      "summary": "Key industry updates regarding Perplexity AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/75"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Glean Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T01:52:53.999699+00:00",
+      "summary": "Key industry updates regarding Glean's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/76"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Adept AI Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T11:26:53.999699+00:00",
+      "summary": "Key industry updates regarding Adept AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/77"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Character.ai Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-15T22:46:53.999699+00:00",
+      "summary": "Key industry updates regarding Character.ai's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/78"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Together AI Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-15T17:51:53.999699+00:00",
+      "summary": "Key industry updates regarding Together AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/79"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anyscale Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T01:55:53.999699+00:00",
+      "summary": "Key industry updates regarding Anyscale's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/80"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Inflection AI Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-15T22:49:53.999699+00:00",
+      "summary": "Key industry updates regarding Inflection AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/81"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Pinecone Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T11:16:53.999699+00:00",
+      "summary": "Key industry updates regarding Pinecone's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/82"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weaviate Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T07:15:53.999699+00:00",
+      "summary": "Key industry updates regarding Weaviate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/83"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Qdrant Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T02:49:53.999699+00:00",
+      "summary": "Key industry updates regarding Qdrant's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/84"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Chroma Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T10:37:53.999699+00:00",
+      "summary": "Key industry updates regarding Chroma's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/85"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LangChain Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-15T17:21:53.999699+00:00",
+      "summary": "Key industry updates regarding LangChain's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/86"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LlamaIndex Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T13:55:53.999699+00:00",
+      "summary": "Key industry updates regarding LlamaIndex's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/87"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weights & Biases Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T01:19:53.999699+00:00",
+      "summary": "Key industry updates regarding Weights & Biases's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/88"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Replicate Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T00:00:53.999699+00:00",
+      "summary": "Key industry updates regarding Replicate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/89"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "EleutherAI Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-15T23:40:53.999699+00:00",
+      "summary": "Key industry updates regarding EleutherAI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/90"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Groq Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T12:34:53.999699+00:00",
+      "summary": "Key industry updates regarding Groq's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/91"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "SambaNova Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T16:26:53.999699+00:00",
+      "summary": "Key industry updates regarding SambaNova's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/92"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cerebras Systems Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T04:55:53.999699+00:00",
+      "summary": "Key industry updates regarding Cerebras Systems's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/93"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Etched Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T13:31:53.999699+00:00",
+      "summary": "Key industry updates regarding Etched's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/94"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cognition AI Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-15T21:00:53.999699+00:00",
+      "summary": "Key industry updates regarding Cognition AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/95"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Harvey AI Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T12:15:53.999699+00:00",
+      "summary": "Key industry updates regarding Harvey AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/96"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Synthesia Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T08:21:53.999699+00:00",
+      "summary": "Key industry updates regarding Synthesia's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/97"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "ElevenLabs Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T07:50:53.999699+00:00",
+      "summary": "Key industry updates regarding ElevenLabs's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/98"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "OpenAI Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-15T17:37:53.999699+00:00",
+      "summary": "Key industry updates regarding OpenAI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/99"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anthropic Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T02:28:53.999699+00:00",
+      "summary": "Key industry updates regarding Anthropic's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/100"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Cohere Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T08:27:53.999699+00:00",
+      "summary": "Key industry updates regarding Cohere's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/101"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Mistral AI Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T01:53:53.999699+00:00",
+      "summary": "Key industry updates regarding Mistral AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/102"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Stability AI Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T01:18:53.999699+00:00",
+      "summary": "Key industry updates regarding Stability AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/103"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Hugging Face Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-15T19:28:53.999699+00:00",
+      "summary": "Key industry updates regarding Hugging Face's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/104"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Midjourney Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-15T18:59:53.999699+00:00",
+      "summary": "Key industry updates regarding Midjourney's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/105"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Runway Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-15T23:27:53.999699+00:00",
+      "summary": "Key industry updates regarding Runway's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/106"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Scale AI Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T10:00:53.999699+00:00",
+      "summary": "Key industry updates regarding Scale AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/107"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Perplexity AI Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-15T19:34:53.999699+00:00",
+      "summary": "Key industry updates regarding Perplexity AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/108"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Glean Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T06:33:53.999699+00:00",
+      "summary": "Key industry updates regarding Glean's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/109"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Adept AI Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T08:21:53.999699+00:00",
+      "summary": "Key industry updates regarding Adept AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/110"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Character.ai Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-15T23:58:53.999699+00:00",
+      "summary": "Key industry updates regarding Character.ai's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/111"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Together AI Unveils Next-Generation Reasoning Architecture with Breakthrough Benchmark Scores",
+      "source": "TechCrunch",
+      "published_date": "2026-08-16T04:29:53.999699+00:00",
+      "summary": "Key industry updates regarding Together AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://techcrunch.com/article/112"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Anyscale Announces $2 Billion Investment in Custom Silicon Infrastructure",
+      "source": "VentureBeat",
+      "published_date": "2026-08-16T13:19:53.999699+00:00",
+      "summary": "Key industry updates regarding Anyscale's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://venturebeat.com/article/113"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Inflection AI Releases Open-Source Weights for 70B Parameter Foundational Model",
+      "source": "Hacker News",
+      "published_date": "2026-08-16T05:48:53.999699+00:00",
+      "summary": "Key industry updates regarding Inflection AI's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://hackernews.com/article/114"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Pinecone Achieves SOTA Efficiency in Real-Time Voice Synthesis and Translation",
+      "source": "Ars Technica",
+      "published_date": "2026-08-16T02:22:53.999699+00:00",
+      "summary": "Key industry updates regarding Pinecone's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://arstechnica.com/article/115"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Weaviate Partners with Fortune 500 Enterprises to Deploy Agentic Workflows",
+      "source": "Forbes AI",
+      "published_date": "2026-08-16T13:57:53.999699+00:00",
+      "summary": "Key industry updates regarding Weaviate's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://forbesai.com/article/116"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Qdrant Publishes Breakthrough Paper on Zero-Shot Multi-Modal Alignment",
+      "source": "MIT Technology Review",
+      "published_date": "2026-08-16T11:40:53.999699+00:00",
+      "summary": "Key industry updates regarding Qdrant's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://mittechnologyreview.com/article/117"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "Chroma Expands Global GPU Data Centers with Direct Liquid Cooling Tech",
+      "source": "Data Center Dynamics",
+      "published_date": "2026-08-16T14:39:53.999699+00:00",
+      "summary": "Key industry updates regarding Chroma's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://datacenterdynamics.com/article/118"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "content": {
+      "headline": "LangChain Launches Enterprise AI Agent Evaluation Framework for Developers",
+      "source": "SiliconANGLE",
+      "published_date": "2026-08-16T10:55:53.999699+00:00",
+      "summary": "Key industry updates regarding LangChain's latest technical breakthroughs and strategic ecosystem positioning.",
+      "url": "https://siliconangle.com/article/119"
+    },
+    "collectedAt": "2026-08-16T15:06:53.999699+00:00"
+  }
+]

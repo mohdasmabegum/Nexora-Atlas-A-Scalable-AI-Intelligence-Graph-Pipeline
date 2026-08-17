@@ -1,0 +1,602 @@
+[
+  {
+    "id": "m-1",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-2",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-3",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-4",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-5",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-6",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-7",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-8",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-9",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-10",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-11",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-12",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-13",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-14",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-15",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-16",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-17",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-18",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-19",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-20",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-21",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-22",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-23",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-24",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-25",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-26",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-27",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-28",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-29",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-30",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-31",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-32",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-33",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-34",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-35",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-36",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-37",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-38",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-39",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-40",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-41",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-42",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-43",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-44",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-45",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-46",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-47",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-48",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-49",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-50",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-51",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-52",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-53",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-54",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-55",
+    "rawName": "Open AI",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 1.0,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-56",
+    "rawName": "OpenAI, Inc.",
+    "canonicalName": "OpenAI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-57",
+    "rawName": "Anthropic PBC",
+    "canonicalName": "Anthropic",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-58",
+    "rawName": "Mistral AI Ltd",
+    "canonicalName": "Mistral AI",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-59",
+    "rawName": "Cohere AI Inc",
+    "canonicalName": "Cohere",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "m-60",
+    "rawName": "Hugging Face Corp",
+    "canonicalName": "Hugging Face",
+    "entityType": "STARTUP",
+    "matchingMethod": "Deterministic Exact/Fuzzy",
+    "confidenceScore": 0.98,
+    "source": "Seed Lookup & Levenshtein",
+    "timestamp": "2026-08-16T15:17:41.230038+00:00"
+  }
+]

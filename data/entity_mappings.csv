@@ -1,0 +1,2269 @@
+rawName,canonicalName,confidenceScore,algorithm,timestamp
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000531Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000629Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000662Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000683Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000699Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000713Z
+"Midjourney, Inc.",Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000730Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000742Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000756Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000770Z
+GLEAN AI,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.000790Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000804Z
+Character.ai PBC,Character.ai Pbc,0.75,Normalized Capitalization,2026-08-16T15:06:54.000888Z
+"Together AI, Inc.",Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.000915Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001019Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001045Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001059Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001072Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001088Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001099Z
+"LangChain, Inc.",LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001115Z
+LLAMAINDEX AI,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001134Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.001162Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001175Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001187Z
+Groq PBC,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001202Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001215Z
+"Cerebras Systems, Inc.",Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001237Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001250Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001263Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001276Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.001289Z
+ELEVENLABS AI,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001309Z
+OpenAI Labs #34,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001331Z
+"Anthropic, Inc. Labs #35",Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001352Z
+Cohere Labs #36,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001369Z
+Mistral AI Labs #37,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001386Z
+Stability AI Labs #38,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001407Z
+Hugging Face PBC Labs #39,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001426Z
+Midjourney Labs #40,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001442Z
+Runway Labs #41,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001458Z
+"Scale AI, Inc. Labs #42",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001481Z
+Perplexity AI Labs #43,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001501Z
+GLEAN AI Labs #44,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001520Z
+Adept AI Labs #45,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001538Z
+Character.ai Labs #46,Character.ai Labs #46,0.75,Normalized Capitalization,2026-08-16T15:06:54.001566Z
+Together AI Labs #47,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001587Z
+Anyscale Labs #48,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001604Z
+"Inflection AI, Inc. Labs #49",Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001630Z
+Pinecone Labs #50,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001652Z
+Weaviate Labs #51,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001673Z
+Qdrant PBC Labs #52,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001696Z
+Chroma Labs #53,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001715Z
+LangChain Labs #54,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001737Z
+LLAMAINDEX AI Labs #55,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001762Z
+"Weights & Biases, Inc. Labs #56","Weights & Biases, Inc. Labs #56",0.75,Normalized Capitalization,2026-08-16T15:06:54.001796Z
+Replicate Labs #57,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001817Z
+EleutherAI Labs #58,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001837Z
+Groq Labs #59,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001859Z
+SambaNova Labs #60,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001878Z
+Cerebras Systems Labs #61,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001900Z
+Etched Labs #62,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001923Z
+"Cognition AI, Inc. Labs #63",Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001949Z
+Harvey AI Labs #64,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001973Z
+Synthesia PBC Labs #65,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.001998Z
+ELEVENLABS AI Labs #66,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002023Z
+OpenAI Labs #67,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002038Z
+Anthropic Labs #68,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002053Z
+Cohere Labs #69,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002068Z
+"Mistral AI, Inc. Labs #70",Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002086Z
+Stability AI Labs #71,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002102Z
+Hugging Face Labs #72,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002123Z
+Midjourney Labs #73,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002140Z
+Runway Labs #74,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002155Z
+Scale AI Labs #75,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002171Z
+Perplexity AI Labs #76,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002188Z
+"Glean, Inc. Labs #77",Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002206Z
+Adept AI PBC Labs #78,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002242Z
+Character.ai Labs #79,Character.ai Labs #79,0.75,Normalized Capitalization,2026-08-16T15:06:54.002270Z
+Together AI Labs #80,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002288Z
+Anyscale Labs #81,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002306Z
+Inflection AI Labs #82,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002324Z
+Pinecone Labs #83,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002342Z
+"Weaviate, Inc. Labs #84",Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002361Z
+Qdrant Labs #85,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002377Z
+Chroma Labs #86,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002394Z
+LangChain Labs #87,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002412Z
+LLAMAINDEX AI Labs #88,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002432Z
+Weights & Biases Labs #89,Weights & Biases Labs #89,0.75,Normalized Capitalization,2026-08-16T15:06:54.002462Z
+Replicate Labs #90,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002483Z
+"EleutherAI, Inc. Labs #91",EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002504Z
+Groq Labs #92,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002524Z
+SambaNova Labs #93,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002545Z
+Cerebras Systems Labs #94,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002567Z
+Etched Labs #95,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002585Z
+Cognition AI Labs #96,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002604Z
+Harvey AI Labs #97,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002625Z
+"Synthesia, Inc. Labs #98",Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002644Z
+ELEVENLABS AI Labs #99,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002664Z
+OpenAI Labs #100,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002678Z
+Anthropic Labs #101,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002693Z
+Cohere Labs #102,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002706Z
+Mistral AI Labs #103,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002722Z
+Stability AI PBC Labs #104,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002739Z
+"Hugging Face, Inc. Labs #105",Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002760Z
+Midjourney Labs #106,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002774Z
+Runway Labs #107,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002789Z
+Scale AI Labs #108,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002805Z
+Perplexity AI Labs #109,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002822Z
+GLEAN AI Labs #110,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002838Z
+Adept AI Labs #111,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002853Z
+"Character.ai, Inc. Labs #112","Character.ai, Inc. Labs #112",0.75,Normalized Capitalization,2026-08-16T15:06:54.002878Z
+Together AI Labs #113,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002896Z
+Anyscale Labs #114,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002913Z
+Inflection AI Labs #115,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002933Z
+Pinecone Labs #116,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002950Z
+Weaviate PBC Labs #117,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002968Z
+Qdrant Labs #118,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.002984Z
+"Chroma, Inc. Labs #119",Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003003Z
+LangChain Labs #120,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003019Z
+LLAMAINDEX AI Labs #121,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003040Z
+Weights & Biases Labs #122,Weights & Biases Labs #122,0.75,Normalized Capitalization,2026-08-16T15:06:54.003067Z
+Replicate Labs #123,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003083Z
+EleutherAI Labs #124,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003100Z
+Groq Labs #125,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003118Z
+"SambaNova, Inc. Labs #126",SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003137Z
+Cerebras Systems Labs #127,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003168Z
+Etched Labs #128,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003200Z
+Cognition AI Labs #129,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003242Z
+Harvey AI PBC Labs #130,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003276Z
+Synthesia Labs #131,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003296Z
+ELEVENLABS AI Labs #132,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003319Z
+"OpenAI, Inc. Labs #133",OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003336Z
+Anthropic Labs #134,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003352Z
+Cohere Labs #135,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003365Z
+Mistral AI Labs #136,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003380Z
+Stability AI Labs #137,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003396Z
+Hugging Face Labs #138,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003412Z
+Midjourney Labs #139,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003427Z
+"Runway, Inc. Labs #140",Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003455Z
+Scale AI Labs #141,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003470Z
+Perplexity AI Labs #142,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003486Z
+GLEAN AI Labs #143,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003501Z
+Adept AI Labs #144,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003516Z
+Character.ai Labs #145,Character.ai Labs #145,0.75,Normalized Capitalization,2026-08-16T15:06:54.003539Z
+Together AI Labs #146,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003556Z
+"Anyscale, Inc. Labs #147",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003573Z
+Inflection AI Labs #148,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003597Z
+Pinecone Labs #149,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003626Z
+Weaviate Labs #150,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003657Z
+Qdrant Labs #151,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003686Z
+Chroma Labs #152,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003704Z
+LangChain Labs #153,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003721Z
+"LlamaIndex, Inc. Labs #154",LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003740Z
+Weights & Biases Labs #155,Weights & Biases Labs #155,0.75,Normalized Capitalization,2026-08-16T15:06:54.003764Z
+Replicate PBC Labs #156,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003783Z
+EleutherAI Labs #157,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003800Z
+Groq Labs #158,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003816Z
+SambaNova Labs #159,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003833Z
+Cerebras Systems Labs #160,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003852Z
+"Etched, Inc. Labs #161",Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003872Z
+Cognition AI Labs #162,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003891Z
+Harvey AI Labs #163,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003909Z
+Synthesia Labs #164,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003927Z
+ELEVENLABS AI Labs #165,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003946Z
+OpenAI Labs #166,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003959Z
+Anthropic Labs #167,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003972Z
+"Cohere, Inc. Labs #168",Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.003989Z
+Mistral AI PBC Labs #169,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004010Z
+Stability AI Labs #170,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004024Z
+Hugging Face Labs #171,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004039Z
+Midjourney Labs #172,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004053Z
+Runway Labs #173,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004068Z
+Scale AI Labs #174,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004085Z
+"Perplexity AI, Inc. Labs #175",Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004113Z
+GLEAN AI Labs #176,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004143Z
+Adept AI Labs #177,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004171Z
+Character.ai Labs #178,Character.ai Labs #178,0.75,Normalized Capitalization,2026-08-16T15:06:54.004201Z
+Together AI Labs #179,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004221Z
+Anyscale Labs #180,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004248Z
+Inflection AI Labs #181,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004266Z
+"Pinecone, Inc. Labs #182",Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004284Z
+Weaviate Labs #183,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004299Z
+Qdrant Labs #184,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004315Z
+Chroma Labs #185,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004331Z
+LangChain Labs #186,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004347Z
+LLAMAINDEX AI Labs #187,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004364Z
+Weights & Biases Labs #188,Weights & Biases Labs #188,0.75,Normalized Capitalization,2026-08-16T15:06:54.004388Z
+"Replicate, Inc. Labs #189",Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004407Z
+EleutherAI Labs #190,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004425Z
+Groq Labs #191,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004442Z
+SambaNova Labs #192,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004460Z
+Cerebras Systems Labs #193,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004483Z
+Etched Labs #194,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004500Z
+Cognition AI PBC Labs #195,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004520Z
+"Harvey AI, Inc. Labs #196",Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004541Z
+Synthesia Labs #197,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004559Z
+ELEVENLABS AI Labs #198,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004578Z
+OpenAI Labs #199,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004591Z
+Anthropic Labs #200,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004605Z
+Cohere Labs #201,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004619Z
+Mistral AI Labs #202,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004635Z
+"Stability AI, Inc. Labs #203",Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004652Z
+Hugging Face Labs #204,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004673Z
+Midjourney Labs #205,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004704Z
+Runway Labs #206,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004730Z
+Scale AI Labs #207,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004760Z
+Perplexity AI PBC Labs #208,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004780Z
+GLEAN AI Labs #209,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004796Z
+"Adept AI, Inc. Labs #210",Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004814Z
+Character.ai Labs #211,Character.ai Labs #211,0.75,Normalized Capitalization,2026-08-16T15:06:54.004836Z
+Together AI Labs #212,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004853Z
+Anyscale Labs #213,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004867Z
+Inflection AI Labs #214,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004884Z
+Pinecone Labs #215,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004901Z
+Weaviate Labs #216,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004918Z
+"Qdrant, Inc. Labs #217",Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004936Z
+Chroma Labs #218,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004952Z
+LangChain Labs #219,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004968Z
+LLAMAINDEX AI Labs #220,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.004985Z
+Weights & Biases PBC Labs #221,Weights & Biases Pbc Labs #221,0.75,Normalized Capitalization,2026-08-16T15:06:54.005010Z
+Replicate Labs #222,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005027Z
+EleutherAI Labs #223,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005046Z
+"Groq, Inc. Labs #224",Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005067Z
+SambaNova Labs #225,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005084Z
+Cerebras Systems Labs #226,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005105Z
+Etched Labs #227,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005126Z
+Cognition AI Labs #228,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005145Z
+Harvey AI Labs #229,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005164Z
+Synthesia Labs #230,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005182Z
+"ElevenLabs, Inc. Labs #231",ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005202Z
+OpenAI Labs #232,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005218Z
+Anthropic Labs #233,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005232Z
+Cohere PBC Labs #234,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005249Z
+Mistral AI Labs #235,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005263Z
+Stability AI Labs #236,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005278Z
+Hugging Face Labs #237,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005294Z
+"Midjourney, Inc. Labs #238",Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005312Z
+Runway Labs #239,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005326Z
+Scale AI Labs #240,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005345Z
+Perplexity AI Labs #241,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005360Z
+GLEAN AI Labs #242,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005376Z
+Adept AI Labs #243,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005392Z
+Character.ai Labs #244,Character.ai Labs #244,0.75,Normalized Capitalization,2026-08-16T15:06:54.005413Z
+"Together AI, Inc. Labs #245",Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005431Z
+Anyscale Labs #246,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005446Z
+Inflection AI PBC Labs #247,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005463Z
+Pinecone Labs #248,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005485Z
+Weaviate Labs #249,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005502Z
+Qdrant Labs #250,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005518Z
+Chroma Labs #251,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005533Z
+"LangChain, Inc. Labs #252",LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005552Z
+LLAMAINDEX AI Labs #253,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005571Z
+Weights & Biases Labs #254,Weights & Biases Labs #254,0.75,Normalized Capitalization,2026-08-16T15:06:54.005594Z
+Replicate Labs #255,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005611Z
+EleutherAI Labs #256,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005630Z
+Groq Labs #257,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005650Z
+SambaNova Labs #258,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005667Z
+"Cerebras Systems, Inc. Labs #259",Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005692Z
+Etched PBC Labs #260,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005711Z
+Cognition AI Labs #261,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005730Z
+Harvey AI Labs #262,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005749Z
+Synthesia Labs #263,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005767Z
+ELEVENLABS AI Labs #264,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005790Z
+OpenAI Labs #265,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005804Z
+"Anthropic, Inc. Labs #266",Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005819Z
+Cohere Labs #267,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005833Z
+Mistral AI Labs #268,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005847Z
+Stability AI Labs #269,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005862Z
+Hugging Face Labs #270,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005881Z
+Midjourney Labs #271,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005895Z
+Runway Labs #272,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005911Z
+"Scale AI, Inc. Labs #273",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005928Z
+Perplexity AI Labs #274,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005946Z
+GLEAN AI Labs #275,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005963Z
+Adept AI Labs #276,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.005978Z
+Character.ai Labs #277,Character.ai Labs #277,0.75,Normalized Capitalization,2026-08-16T15:06:54.006000Z
+Together AI Labs #278,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006016Z
+Anyscale Labs #279,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006032Z
+"Inflection AI, Inc. Labs #280",Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006053Z
+Pinecone Labs #281,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006073Z
+Weaviate Labs #282,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006089Z
+Qdrant Labs #283,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006105Z
+Chroma Labs #284,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006121Z
+LangChain Labs #285,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006138Z
+LLAMAINDEX AI Labs #286,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006156Z
+"Weights & Biases, Inc. Labs #287","Weights & Biases, Inc. Labs #287",0.75,Normalized Capitalization,2026-08-16T15:06:54.006182Z
+Replicate Labs #288,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006202Z
+EleutherAI Labs #289,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006220Z
+Groq Labs #290,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006237Z
+SambaNova Labs #291,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006269Z
+Cerebras Systems Labs #292,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006289Z
+Etched Labs #293,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006308Z
+"Cognition AI, Inc. Labs #294",Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006329Z
+Harvey AI Labs #295,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006347Z
+Synthesia Labs #296,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006379Z
+ELEVENLABS AI Labs #297,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006399Z
+OpenAI Labs #298,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006413Z
+Anthropic PBC Labs #299,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006428Z
+Cohere Labs #300,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006441Z
+"Mistral AI, Inc. Labs #301",Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006457Z
+Stability AI Labs #302,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006472Z
+Hugging Face Labs #303,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006487Z
+Midjourney Labs #304,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006519Z
+Runway Labs #305,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006533Z
+Scale AI Labs #306,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006548Z
+Perplexity AI Labs #307,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006564Z
+"Glean, Inc. Labs #308",Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006582Z
+Adept AI Labs #309,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006597Z
+Character.ai Labs #310,Character.ai Labs #310,0.75,Normalized Capitalization,2026-08-16T15:06:54.006623Z
+Together AI Labs #311,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006642Z
+Anyscale PBC Labs #312,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006658Z
+Inflection AI Labs #313,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006674Z
+Pinecone Labs #314,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006690Z
+"Weaviate, Inc. Labs #315",Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006709Z
+Qdrant Labs #316,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006725Z
+Chroma Labs #317,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006740Z
+LangChain Labs #318,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006757Z
+LLAMAINDEX AI Labs #319,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006777Z
+Weights & Biases Labs #320,Weights & Biases Labs #320,0.75,Normalized Capitalization,2026-08-16T15:06:54.006800Z
+Replicate Labs #321,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006819Z
+"EleutherAI, Inc. Labs #322",EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006838Z
+Groq Labs #323,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006856Z
+SambaNova Labs #324,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006873Z
+Cerebras Systems PBC Labs #325,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006896Z
+Etched Labs #326,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006914Z
+Cognition AI Labs #327,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006937Z
+Harvey AI Labs #328,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006955Z
+"Synthesia, Inc. Labs #329",Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006974Z
+ELEVENLABS AI Labs #330,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.006994Z
+OpenAI Labs #331,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007007Z
+Anthropic Labs #332,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007021Z
+Cohere Labs #333,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007034Z
+Mistral AI Labs #334,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007049Z
+Stability AI Labs #335,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007065Z
+"Hugging Face, Inc. Labs #336",Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007082Z
+Midjourney Labs #337,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007097Z
+Runway PBC Labs #338,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007115Z
+Scale AI Labs #339,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007130Z
+Perplexity AI Labs #340,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007147Z
+GLEAN AI Labs #341,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007163Z
+Adept AI Labs #342,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007181Z
+"Character.ai, Inc. Labs #343","Character.ai, Inc. Labs #343",0.75,Normalized Capitalization,2026-08-16T15:06:54.007210Z
+Together AI Labs #344,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007227Z
+Anyscale Labs #345,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007242Z
+Inflection AI Labs #346,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007259Z
+Pinecone Labs #347,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007275Z
+Weaviate Labs #348,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007291Z
+Qdrant Labs #349,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007308Z
+"Chroma, Inc. Labs #350",Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007328Z
+LangChain PBC Labs #351,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007349Z
+LLAMAINDEX AI Labs #352,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007367Z
+Weights & Biases Labs #353,Weights & Biases Labs #353,0.75,Normalized Capitalization,2026-08-16T15:06:54.007394Z
+Replicate Labs #354,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007413Z
+EleutherAI Labs #355,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007430Z
+Groq Labs #356,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007447Z
+"SambaNova, Inc. Labs #357",SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007472Z
+Cerebras Systems Labs #358,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007493Z
+Etched Labs #359,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007515Z
+Cognition AI Labs #360,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007544Z
+Harvey AI Labs #361,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007574Z
+Synthesia Labs #362,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007601Z
+ELEVENLABS AI Labs #363,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007624Z
+"OpenAI, Inc. Labs #364",OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007643Z
+Anthropic Labs #365,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007658Z
+Cohere Labs #366,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007680Z
+Mistral AI Labs #367,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007707Z
+Stability AI Labs #368,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007729Z
+Hugging Face Labs #369,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007760Z
+Midjourney Labs #370,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007777Z
+"Runway, Inc. Labs #371",Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007793Z
+Scale AI Labs #372,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007811Z
+Perplexity AI Labs #373,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007830Z
+GLEAN AI Labs #374,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007847Z
+Adept AI Labs #375,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007865Z
+Character.ai Labs #376,Character.ai Labs #376,0.75,Normalized Capitalization,2026-08-16T15:06:54.007893Z
+Together AI PBC Labs #377,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007910Z
+"Anyscale, Inc. Labs #378",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007929Z
+Inflection AI Labs #379,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007946Z
+Pinecone Labs #380,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007962Z
+Weaviate Labs #381,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007981Z
+Qdrant Labs #382,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.007996Z
+Chroma Labs #383,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008016Z
+LangChain Labs #384,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008036Z
+"LlamaIndex, Inc. Labs #385",LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008061Z
+Weights & Biases Labs #386,Weights & Biases Labs #386,0.75,Normalized Capitalization,2026-08-16T15:06:54.008087Z
+Replicate Labs #387,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008107Z
+EleutherAI Labs #388,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008128Z
+Groq Labs #389,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008146Z
+SambaNova PBC Labs #390,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008168Z
+Cerebras Systems Labs #391,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008194Z
+"Etched, Inc. Labs #392",Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008215Z
+Cognition AI Labs #393,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008239Z
+Harvey AI Labs #394,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008284Z
+Synthesia Labs #395,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008306Z
+ELEVENLABS AI Labs #396,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008331Z
+OpenAI Labs #397,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008353Z
+Anthropic Labs #398,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008382Z
+"Cohere, Inc. Labs #399",Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008431Z
+Mistral AI Labs #400,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008468Z
+Stability AI Labs #401,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008495Z
+Hugging Face Labs #402,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008539Z
+Midjourney PBC Labs #403,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008567Z
+Runway Labs #404,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008593Z
+Scale AI Labs #405,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008621Z
+"Perplexity AI, Inc. Labs #406",Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008652Z
+GLEAN AI Labs #407,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008690Z
+Adept AI Labs #408,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008716Z
+Character.ai Labs #409,Character.ai Labs #409,0.75,Normalized Capitalization,2026-08-16T15:06:54.008770Z
+Together AI Labs #410,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008806Z
+Anyscale Labs #411,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008833Z
+Inflection AI Labs #412,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008857Z
+"Pinecone, Inc. Labs #413",Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008888Z
+Weaviate Labs #414,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008911Z
+Qdrant Labs #415,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008944Z
+Chroma PBC Labs #416,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008971Z
+LangChain Labs #417,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.008994Z
+LLAMAINDEX AI Labs #418,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009026Z
+Weights & Biases Labs #419,Weights & Biases Labs #419,0.75,Normalized Capitalization,2026-08-16T15:06:54.009067Z
+"Replicate, Inc. Labs #420",Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009100Z
+EleutherAI Labs #421,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009127Z
+Groq Labs #422,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009153Z
+SambaNova Labs #423,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009188Z
+Cerebras Systems Labs #424,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009218Z
+Etched Labs #425,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009242Z
+Cognition AI Labs #426,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009279Z
+"Harvey AI, Inc. Labs #427",Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009310Z
+Synthesia Labs #428,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009338Z
+ELEVENLABS AI Labs #429,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009364Z
+OpenAI Labs #430,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009380Z
+Anthropic Labs #431,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009396Z
+Cohere Labs #432,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009411Z
+Mistral AI Labs #433,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009430Z
+"Stability AI, Inc. Labs #434",Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009460Z
+Hugging Face Labs #435,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009488Z
+Midjourney Labs #436,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009518Z
+Runway Labs #437,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009647Z
+Scale AI Labs #438,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009762Z
+Perplexity AI Labs #439,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009814Z
+GLEAN AI Labs #440,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009836Z
+"Adept AI, Inc. Labs #441",Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009859Z
+Character.ai PBC Labs #442,Character.ai Pbc Labs #442,0.75,Normalized Capitalization,2026-08-16T15:06:54.009896Z
+Together AI Labs #443,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009917Z
+Anyscale Labs #444,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009933Z
+Inflection AI Labs #445,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009950Z
+Pinecone Labs #446,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009969Z
+Weaviate Labs #447,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.009984Z
+"Qdrant, Inc. Labs #448",Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010002Z
+Chroma Labs #449,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010019Z
+LangChain Labs #450,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010038Z
+LLAMAINDEX AI Labs #451,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010056Z
+Weights & Biases Labs #452,Weights & Biases Labs #452,0.75,Normalized Capitalization,2026-08-16T15:06:54.010082Z
+Replicate Labs #453,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010104Z
+EleutherAI Labs #454,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010124Z
+"Groq, Inc. Labs #455",Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010144Z
+SambaNova Labs #456,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010164Z
+Cerebras Systems Labs #457,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010186Z
+Etched Labs #458,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010214Z
+Cognition AI Labs #459,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010244Z
+Harvey AI Labs #460,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010274Z
+Synthesia Labs #461,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010303Z
+"ElevenLabs, Inc. Labs #462",ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010334Z
+OpenAI Labs #463,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010356Z
+Anthropic Labs #464,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010377Z
+Cohere Labs #465,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010403Z
+Mistral AI Labs #466,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010444Z
+Stability AI Labs #467,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010482Z
+Hugging Face PBC Labs #468,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010541Z
+"Midjourney, Inc. Labs #469",Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010569Z
+Runway Labs #470,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010590Z
+Scale AI Labs #471,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010611Z
+Perplexity AI Labs #472,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010631Z
+GLEAN AI Labs #473,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010649Z
+Adept AI Labs #474,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010666Z
+Character.ai Labs #475,Character.ai Labs #475,0.75,Normalized Capitalization,2026-08-16T15:06:54.010695Z
+"Together AI, Inc. Labs #476",Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010735Z
+Anyscale Labs #477,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010762Z
+Inflection AI Labs #478,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010806Z
+Pinecone Labs #479,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010833Z
+Weaviate Labs #480,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010854Z
+Qdrant PBC Labs #481,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010881Z
+Chroma Labs #482,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010903Z
+"LangChain, Inc. Labs #483",LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010926Z
+LLAMAINDEX AI Labs #484,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.010954Z
+Weights & Biases Labs #485,Weights & Biases Labs #485,0.75,Normalized Capitalization,2026-08-16T15:06:54.010988Z
+Replicate Labs #486,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011014Z
+EleutherAI Labs #487,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011036Z
+Groq Labs #488,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011068Z
+SambaNova Labs #489,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011102Z
+"Cerebras Systems, Inc. Labs #490",Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011134Z
+Etched Labs #491,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011165Z
+Cognition AI Labs #492,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011203Z
+Harvey AI Labs #493,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011234Z
+Synthesia PBC Labs #494,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011272Z
+ELEVENLABS AI Labs #495,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011306Z
+OpenAI Labs #496,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011327Z
+"Anthropic, Inc. Labs #497",Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011343Z
+Cohere Labs #498,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011356Z
+Mistral AI Labs #499,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011369Z
+Stability AI Labs #500,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011387Z
+Hugging Face Labs #501,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011403Z
+Midjourney Labs #502,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011425Z
+Runway Labs #503,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011448Z
+"Scale AI, Inc. Labs #504",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011466Z
+Perplexity AI Labs #505,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011482Z
+GLEAN AI Labs #506,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011498Z
+Adept AI PBC Labs #507,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011514Z
+Character.ai Labs #508,Character.ai Labs #508,0.75,Normalized Capitalization,2026-08-16T15:06:54.011540Z
+Together AI Labs #509,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011558Z
+Anyscale Labs #510,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011576Z
+"Inflection AI, Inc. Labs #511",Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011594Z
+Pinecone Labs #512,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011617Z
+Weaviate Labs #513,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011633Z
+Qdrant Labs #514,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011650Z
+Chroma Labs #515,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011665Z
+LangChain Labs #516,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011681Z
+LLAMAINDEX AI Labs #517,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011698Z
+"Weights & Biases, Inc. Labs #518","Weights & Biases, Inc. Labs #518",0.75,Normalized Capitalization,2026-08-16T15:06:54.011728Z
+Replicate Labs #519,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011744Z
+EleutherAI PBC Labs #520,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011762Z
+Groq Labs #521,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011779Z
+SambaNova Labs #522,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011799Z
+Cerebras Systems Labs #523,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011818Z
+Etched Labs #524,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011835Z
+"Cognition AI, Inc. Labs #525",Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011858Z
+Harvey AI Labs #526,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011880Z
+Synthesia Labs #527,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011897Z
+ELEVENLABS AI Labs #528,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011915Z
+OpenAI Labs #529,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011928Z
+Anthropic Labs #530,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011941Z
+Cohere Labs #531,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011953Z
+"Mistral AI, Inc. Labs #532",Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011968Z
+Stability AI PBC Labs #533,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.011983Z
+Hugging Face Labs #534,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012000Z
+Midjourney Labs #535,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012013Z
+Runway Labs #536,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012027Z
+Scale AI Labs #537,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012043Z
+Perplexity AI Labs #538,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012060Z
+"Glean, Inc. Labs #539",Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012076Z
+Adept AI Labs #540,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012090Z
+Character.ai Labs #541,Character.ai Labs #541,0.75,Normalized Capitalization,2026-08-16T15:06:54.012113Z
+Together AI Labs #542,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012132Z
+Anyscale Labs #543,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012147Z
+Inflection AI Labs #544,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012165Z
+Pinecone Labs #545,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012181Z
+"Weaviate, Inc. Labs #546",Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012198Z
+Qdrant Labs #547,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012214Z
+Chroma Labs #548,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012231Z
+LangChain Labs #549,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012246Z
+LLAMAINDEX AI Labs #550,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012265Z
+Weights & Biases Labs #551,Weights & Biases Labs #551,0.75,Normalized Capitalization,2026-08-16T15:06:54.012289Z
+Replicate Labs #552,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012306Z
+"EleutherAI, Inc. Labs #553",EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012323Z
+Groq Labs #554,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012340Z
+SambaNova Labs #555,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012356Z
+Cerebras Systems Labs #556,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012374Z
+Etched Labs #557,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012390Z
+Cognition AI Labs #558,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012411Z
+Harvey AI PBC Labs #559,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012433Z
+"Synthesia, Inc. Labs #560",Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012460Z
+ELEVENLABS AI Labs #561,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012479Z
+OpenAI Labs #562,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012492Z
+Anthropic Labs #563,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012505Z
+Cohere Labs #564,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012518Z
+Mistral AI Labs #565,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012534Z
+Stability AI Labs #566,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012547Z
+"Hugging Face, Inc. Labs #567",Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012563Z
+Midjourney Labs #568,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012576Z
+Runway Labs #569,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012589Z
+Scale AI Labs #570,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012603Z
+Perplexity AI Labs #571,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012617Z
+GLEAN AI Labs #572,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012632Z
+Adept AI Labs #573,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012650Z
+"Character.ai, Inc. Labs #574","Character.ai, Inc. Labs #574",0.75,Normalized Capitalization,2026-08-16T15:06:54.012674Z
+Together AI Labs #575,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012691Z
+Anyscale Labs #576,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012707Z
+Inflection AI Labs #577,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012722Z
+Pinecone Labs #578,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012737Z
+Weaviate Labs #579,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012752Z
+Qdrant Labs #580,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012766Z
+"Chroma, Inc. Labs #581",Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012796Z
+LangChain Labs #582,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012813Z
+LLAMAINDEX AI Labs #583,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012830Z
+Weights & Biases Labs #584,Weights & Biases Labs #584,0.75,Normalized Capitalization,2026-08-16T15:06:54.012852Z
+Replicate PBC Labs #585,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012871Z
+EleutherAI Labs #586,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012887Z
+Groq Labs #587,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012903Z
+"SambaNova, Inc. Labs #588",SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012922Z
+Cerebras Systems Labs #589,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012947Z
+Etched Labs #590,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012964Z
+Cognition AI Labs #591,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012982Z
+Harvey AI Labs #592,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.012999Z
+Synthesia Labs #593,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013018Z
+ELEVENLABS AI Labs #594,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013087Z
+"OpenAI, Inc. Labs #595",OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013102Z
+Anthropic Labs #596,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013114Z
+Cohere Labs #597,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013133Z
+Mistral AI PBC Labs #598,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013148Z
+Stability AI Labs #599,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013162Z
+Hugging Face Labs #600,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013176Z
+Midjourney Labs #601,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013189Z
+"Runway, Inc. Labs #602",Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013204Z
+Scale AI Labs #603,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013219Z
+Perplexity AI Labs #604,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013233Z
+GLEAN AI Labs #605,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013251Z
+Adept AI Labs #606,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013265Z
+Character.ai Labs #607,Character.ai Labs #607,0.75,Normalized Capitalization,2026-08-16T15:06:54.013287Z
+Together AI Labs #608,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013306Z
+"Anyscale, Inc. Labs #609",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013322Z
+Inflection AI Labs #610,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013338Z
+Pinecone PBC Labs #611,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013360Z
+Weaviate Labs #612,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013375Z
+Qdrant Labs #613,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013393Z
+Chroma Labs #614,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013408Z
+LangChain Labs #615,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013423Z
+"LlamaIndex, Inc. Labs #616",LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013439Z
+Weights & Biases Labs #617,Weights & Biases Labs #617,0.75,Normalized Capitalization,2026-08-16T15:06:54.013462Z
+Replicate Labs #618,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013478Z
+EleutherAI Labs #619,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013495Z
+Groq Labs #620,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013511Z
+SambaNova Labs #621,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013532Z
+Cerebras Systems Labs #622,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013550Z
+"Etched, Inc. Labs #623",Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013569Z
+Cognition AI PBC Labs #624,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013588Z
+Harvey AI Labs #625,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013605Z
+Synthesia Labs #626,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013621Z
+ELEVENLABS AI Labs #627,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013643Z
+OpenAI Labs #628,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013655Z
+Anthropic Labs #629,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013671Z
+"Cohere, Inc. Labs #630",Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013685Z
+Mistral AI Labs #631,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013698Z
+Stability AI Labs #632,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013712Z
+Hugging Face Labs #633,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013727Z
+Midjourney Labs #634,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013741Z
+Runway Labs #635,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013753Z
+Scale AI Labs #636,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013768Z
+"Perplexity AI, Inc. Labs #637",Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013797Z
+GLEAN AI Labs #638,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013827Z
+Adept AI Labs #639,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013861Z
+Character.ai Labs #640,Character.ai Labs #640,0.75,Normalized Capitalization,2026-08-16T15:06:54.013893Z
+Together AI Labs #641,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013910Z
+Anyscale Labs #642,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013926Z
+Inflection AI Labs #643,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013946Z
+"Pinecone, Inc. Labs #644",Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013968Z
+Weaviate Labs #645,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.013988Z
+Qdrant Labs #646,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014003Z
+Chroma Labs #647,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014019Z
+LangChain Labs #648,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014035Z
+LLAMAINDEX AI Labs #649,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014056Z
+Weights & Biases PBC Labs #650,Weights & Biases Pbc Labs #650,0.75,Normalized Capitalization,2026-08-16T15:06:54.014101Z
+"Replicate, Inc. Labs #651",Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014135Z
+EleutherAI Labs #652,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014156Z
+Groq Labs #653,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014176Z
+SambaNova Labs #654,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014193Z
+Cerebras Systems Labs #655,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014211Z
+Etched Labs #656,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014227Z
+Cognition AI Labs #657,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014245Z
+"Harvey AI, Inc. Labs #658",Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014265Z
+Synthesia Labs #659,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014282Z
+ELEVENLABS AI Labs #660,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014303Z
+OpenAI Labs #661,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014317Z
+Anthropic Labs #662,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014330Z
+Cohere PBC Labs #663,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014344Z
+Mistral AI Labs #664,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014358Z
+"Stability AI, Inc. Labs #665",Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014373Z
+Hugging Face Labs #666,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014386Z
+Midjourney Labs #667,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014400Z
+Runway Labs #668,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014415Z
+Scale AI Labs #669,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014443Z
+Perplexity AI Labs #670,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014476Z
+GLEAN AI Labs #671,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014498Z
+"Adept AI, Inc. Labs #672",Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014514Z
+Character.ai Labs #673,Character.ai Labs #673,0.75,Normalized Capitalization,2026-08-16T15:06:54.014535Z
+Together AI Labs #674,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014580Z
+Anyscale Labs #675,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014594Z
+Inflection AI PBC Labs #676,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014610Z
+Pinecone Labs #677,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014628Z
+Weaviate Labs #678,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014645Z
+"Qdrant, Inc. Labs #679",Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014667Z
+Chroma Labs #680,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014694Z
+LangChain Labs #681,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014722Z
+LLAMAINDEX AI Labs #682,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014750Z
+Weights & Biases Labs #683,Weights & Biases Labs #683,0.75,Normalized Capitalization,2026-08-16T15:06:54.014774Z
+Replicate Labs #684,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014800Z
+EleutherAI Labs #685,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014821Z
+"Groq, Inc. Labs #686",Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014838Z
+SambaNova Labs #687,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014855Z
+Cerebras Systems Labs #688,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014873Z
+Etched PBC Labs #689,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014891Z
+Cognition AI Labs #690,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014908Z
+Harvey AI Labs #691,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014926Z
+Synthesia Labs #692,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014947Z
+"ElevenLabs, Inc. Labs #693",ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014971Z
+OpenAI Labs #694,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.014988Z
+Anthropic Labs #695,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015003Z
+Cohere Labs #696,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015016Z
+Mistral AI Labs #697,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015029Z
+Stability AI Labs #698,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015043Z
+Hugging Face Labs #699,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015057Z
+"Midjourney, Inc. Labs #700",Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015074Z
+Runway Labs #701,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015087Z
+Scale AI PBC Labs #702,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015103Z
+Perplexity AI Labs #703,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015118Z
+GLEAN AI Labs #704,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015132Z
+Adept AI Labs #705,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015146Z
+Character.ai Labs #706,Character.ai Labs #706,0.75,Normalized Capitalization,2026-08-16T15:06:54.015170Z
+"Together AI, Inc. Labs #707",Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015187Z
+Anyscale Labs #708,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015202Z
+Inflection AI Labs #709,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015218Z
+Pinecone Labs #710,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015233Z
+Weaviate Labs #711,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015247Z
+Qdrant Labs #712,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015264Z
+Chroma Labs #713,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015278Z
+"LangChain, Inc. Labs #714",LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015295Z
+LLAMAINDEX AI Labs #715,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015312Z
+Weights & Biases Labs #716,Weights & Biases Labs #716,0.75,Normalized Capitalization,2026-08-16T15:06:54.015336Z
+Replicate Labs #717,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015352Z
+EleutherAI Labs #718,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015370Z
+Groq Labs #719,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015388Z
+SambaNova Labs #720,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015407Z
+"Cerebras Systems, Inc. Labs #721",Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015427Z
+Etched Labs #722,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015445Z
+Cognition AI Labs #723,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015471Z
+Harvey AI Labs #724,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015491Z
+Synthesia Labs #725,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015507Z
+ELEVENLABS AI Labs #726,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015527Z
+OpenAI Labs #727,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015540Z
+"Anthropic, Inc. Labs #728",Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015557Z
+Cohere Labs #729,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015569Z
+Mistral AI Labs #730,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015583Z
+Stability AI Labs #731,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015597Z
+Hugging Face Labs #732,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015613Z
+Midjourney Labs #733,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015628Z
+Runway Labs #734,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015641Z
+"Scale AI, Inc. Labs #735",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015656Z
+Perplexity AI Labs #736,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015670Z
+GLEAN AI Labs #737,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015684Z
+Adept AI Labs #738,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015699Z
+Character.ai Labs #739,Character.ai Labs #739,0.75,Normalized Capitalization,2026-08-16T15:06:54.015720Z
+Together AI Labs #740,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015738Z
+Anyscale PBC Labs #741,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015753Z
+"Inflection AI, Inc. Labs #742",Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015774Z
+Pinecone Labs #743,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015789Z
+Weaviate Labs #744,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015807Z
+Qdrant Labs #745,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015823Z
+Chroma Labs #746,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015840Z
+LangChain Labs #747,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015857Z
+LLAMAINDEX AI Labs #748,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015877Z
+"Weights & Biases, Inc. Labs #749","Weights & Biases, Inc. Labs #749",0.75,Normalized Capitalization,2026-08-16T15:06:54.015903Z
+Replicate Labs #750,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015920Z
+EleutherAI Labs #751,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015936Z
+Groq Labs #752,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015953Z
+SambaNova Labs #753,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015969Z
+Cerebras Systems PBC Labs #754,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.015988Z
+Etched Labs #755,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016007Z
+"Cognition AI, Inc. Labs #756",Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016030Z
+Harvey AI Labs #757,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016047Z
+Synthesia Labs #758,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016064Z
+ELEVENLABS AI Labs #759,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016082Z
+OpenAI Labs #760,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016095Z
+Anthropic Labs #761,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016107Z
+Cohere Labs #762,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016146Z
+"Mistral AI, Inc. Labs #763",Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016160Z
+Stability AI Labs #764,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016176Z
+Hugging Face Labs #765,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016190Z
+Midjourney Labs #766,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016204Z
+Runway PBC Labs #767,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016221Z
+Scale AI Labs #768,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016236Z
+Perplexity AI Labs #769,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016250Z
+"Glean, Inc. Labs #770",Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016265Z
+Adept AI Labs #771,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016280Z
+Character.ai Labs #772,Character.ai Labs #772,0.75,Normalized Capitalization,2026-08-16T15:06:54.016303Z
+Together AI Labs #773,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016319Z
+Anyscale Labs #774,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016333Z
+Inflection AI Labs #775,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016349Z
+Pinecone Labs #776,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016364Z
+"Weaviate, Inc. Labs #777",Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016380Z
+Qdrant Labs #778,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016396Z
+Chroma Labs #779,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016415Z
+LangChain PBC Labs #780,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016432Z
+LLAMAINDEX AI Labs #781,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016449Z
+Weights & Biases Labs #782,Weights & Biases Labs #782,0.75,Normalized Capitalization,2026-08-16T15:06:54.016479Z
+Replicate Labs #783,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016499Z
+"EleutherAI, Inc. Labs #784",EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016517Z
+Groq Labs #785,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016534Z
+SambaNova Labs #786,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016550Z
+Cerebras Systems Labs #787,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016569Z
+Etched Labs #788,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016590Z
+Cognition AI Labs #789,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016607Z
+Harvey AI Labs #790,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016624Z
+"Synthesia, Inc. Labs #791",Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016644Z
+ELEVENLABS AI Labs #792,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016665Z
+OpenAI PBC Labs #793,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016678Z
+Anthropic Labs #794,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016691Z
+Cohere Labs #795,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016704Z
+Mistral AI Labs #796,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016721Z
+Stability AI Labs #797,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016734Z
+"Hugging Face, Inc. Labs #798",Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016750Z
+Midjourney Labs #799,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016763Z
+Runway Labs #800,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016776Z
+Scale AI Labs #801,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016790Z
+Perplexity AI Labs #802,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016814Z
+GLEAN AI Labs #803,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016830Z
+Adept AI Labs #804,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016847Z
+"Character.ai, Inc. Labs #805","Character.ai, Inc. Labs #805",0.75,Normalized Capitalization,2026-08-16T15:06:54.016871Z
+Together AI PBC Labs #806,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016888Z
+Anyscale Labs #807,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016901Z
+Inflection AI Labs #808,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016917Z
+Pinecone Labs #809,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016932Z
+Weaviate Labs #810,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016946Z
+Qdrant Labs #811,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016961Z
+"Chroma, Inc. Labs #812",Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016979Z
+LangChain Labs #813,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.016997Z
+LLAMAINDEX AI Labs #814,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017014Z
+Weights & Biases Labs #815,Weights & Biases Labs #815,0.75,Normalized Capitalization,2026-08-16T15:06:54.017035Z
+Replicate Labs #816,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017051Z
+EleutherAI Labs #817,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017069Z
+Groq Labs #818,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017085Z
+"SambaNova, Inc. Labs #819",SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017104Z
+Cerebras Systems Labs #820,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017122Z
+Etched Labs #821,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017139Z
+Cognition AI Labs #822,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017157Z
+Harvey AI Labs #823,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017174Z
+Synthesia Labs #824,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017191Z
+ELEVENLABS AI Labs #825,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017209Z
+"OpenAI, Inc. Labs #826",OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017223Z
+Anthropic Labs #827,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017240Z
+Cohere Labs #828,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017256Z
+Mistral AI Labs #829,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017277Z
+Stability AI Labs #830,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017290Z
+Hugging Face Labs #831,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017304Z
+Midjourney PBC Labs #832,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017319Z
+"Runway, Inc. Labs #833",Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017333Z
+Scale AI Labs #834,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017348Z
+Perplexity AI Labs #835,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017365Z
+GLEAN AI Labs #836,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017380Z
+Adept AI Labs #837,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017394Z
+Character.ai Labs #838,Character.ai Labs #838,0.75,Normalized Capitalization,2026-08-16T15:06:54.017414Z
+Together AI Labs #839,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017430Z
+"Anyscale, Inc. Labs #840",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017448Z
+Inflection AI Labs #841,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017471Z
+Pinecone Labs #842,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017487Z
+Weaviate Labs #843,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017504Z
+Qdrant Labs #844,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017527Z
+Chroma PBC Labs #845,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017548Z
+LangChain Labs #846,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017571Z
+"LlamaIndex, Inc. Labs #847",LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017595Z
+Weights & Biases Labs #848,Weights & Biases Labs #848,0.75,Normalized Capitalization,2026-08-16T15:06:54.017621Z
+Replicate Labs #849,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017637Z
+EleutherAI Labs #850,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017654Z
+Groq Labs #851,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017672Z
+SambaNova Labs #852,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017689Z
+Cerebras Systems Labs #853,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017714Z
+"Etched, Inc. Labs #854",Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017738Z
+Cognition AI Labs #855,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017759Z
+Harvey AI Labs #856,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017788Z
+Synthesia Labs #857,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017826Z
+ELEVENLABS AI Labs #858,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017864Z
+OpenAI Labs #859,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017881Z
+Anthropic Labs #860,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017895Z
+"Cohere, Inc. Labs #861",Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017908Z
+Mistral AI Labs #862,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017957Z
+Stability AI Labs #863,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017974Z
+Hugging Face Labs #864,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.017988Z
+Midjourney Labs #865,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018004Z
+Runway Labs #866,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018021Z
+Scale AI Labs #867,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018038Z
+"Perplexity AI, Inc. Labs #868",Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018053Z
+GLEAN AI Labs #869,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018068Z
+Adept AI Labs #870,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018084Z
+Character.ai PBC Labs #871,Character.ai Pbc Labs #871,0.75,Normalized Capitalization,2026-08-16T15:06:54.018128Z
+Together AI Labs #872,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018160Z
+Anyscale Labs #873,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018181Z
+Inflection AI Labs #874,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018199Z
+"Pinecone, Inc. Labs #875",Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018219Z
+Weaviate Labs #876,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018234Z
+Qdrant Labs #877,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018249Z
+Chroma Labs #878,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018263Z
+LangChain Labs #879,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018281Z
+LLAMAINDEX AI Labs #880,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018301Z
+Weights & Biases Labs #881,Weights & Biases Labs #881,0.75,Normalized Capitalization,2026-08-16T15:06:54.018323Z
+"Replicate, Inc. Labs #882",Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018340Z
+EleutherAI Labs #883,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018359Z
+Groq PBC Labs #884,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018375Z
+SambaNova Labs #885,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018392Z
+Cerebras Systems Labs #886,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018416Z
+Etched Labs #887,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018446Z
+Cognition AI Labs #888,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018482Z
+"Harvey AI, Inc. Labs #889",Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018511Z
+Synthesia Labs #890,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018528Z
+ELEVENLABS AI Labs #891,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018552Z
+OpenAI Labs #892,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018564Z
+Anthropic Labs #893,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018577Z
+Cohere Labs #894,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018589Z
+Mistral AI Labs #895,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018602Z
+"Stability AI, Inc. Labs #896",Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018619Z
+Hugging Face PBC Labs #897,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018635Z
+Midjourney Labs #898,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018648Z
+Runway Labs #899,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018663Z
+Scale AI Labs #900,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018677Z
+Perplexity AI Labs #901,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018700Z
+GLEAN AI Labs #902,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018719Z
+"Adept AI, Inc. Labs #903",Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018737Z
+Character.ai Labs #904,Character.ai Labs #904,0.75,Normalized Capitalization,2026-08-16T15:06:54.018777Z
+Together AI Labs #905,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018824Z
+Anyscale Labs #906,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018845Z
+Inflection AI Labs #907,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018865Z
+Pinecone Labs #908,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018880Z
+Weaviate Labs #909,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018895Z
+"Qdrant, Inc. Labs #910",Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018912Z
+Chroma Labs #911,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018927Z
+LangChain Labs #912,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.018943Z
+LLAMAINDEX AI Labs #913,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.019980Z
+Weights & Biases Labs #914,Weights & Biases Labs #914,0.75,Normalized Capitalization,2026-08-16T15:06:54.020016Z
+Replicate Labs #915,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020040Z
+EleutherAI Labs #916,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020059Z
+"Groq, Inc. Labs #917",Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020083Z
+SambaNova Labs #918,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020102Z
+Cerebras Systems Labs #919,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020122Z
+Etched Labs #920,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020139Z
+Cognition AI Labs #921,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020159Z
+Harvey AI Labs #922,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020177Z
+Synthesia PBC Labs #923,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020198Z
+"ElevenLabs, Inc. Labs #924",ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020220Z
+OpenAI Labs #925,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020240Z
+Anthropic Labs #926,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020258Z
+Cohere Labs #927,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020275Z
+Mistral AI Labs #928,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020289Z
+Stability AI Labs #929,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020306Z
+Hugging Face Labs #930,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020324Z
+"Midjourney, Inc. Labs #931",Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020343Z
+Runway Labs #932,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020356Z
+Scale AI Labs #933,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020371Z
+Perplexity AI Labs #934,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020386Z
+GLEAN AI Labs #935,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020401Z
+Adept AI PBC Labs #936,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020417Z
+Character.ai Labs #937,Character.ai Labs #937,0.75,Normalized Capitalization,2026-08-16T15:06:54.020443Z
+"Together AI, Inc. Labs #938",Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020462Z
+Anyscale Labs #939,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020479Z
+Inflection AI Labs #940,Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020495Z
+Pinecone Labs #941,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020513Z
+Weaviate Labs #942,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020529Z
+Qdrant Labs #943,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020544Z
+Chroma Labs #944,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020559Z
+"LangChain, Inc. Labs #945",LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020576Z
+LLAMAINDEX AI Labs #946,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020596Z
+Weights & Biases Labs #947,Weights & Biases Labs #947,0.75,Normalized Capitalization,2026-08-16T15:06:54.020623Z
+Replicate Labs #948,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020640Z
+EleutherAI PBC Labs #949,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020659Z
+Groq Labs #950,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020676Z
+SambaNova Labs #951,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020692Z
+"Cerebras Systems, Inc. Labs #952",Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020712Z
+Etched Labs #953,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020733Z
+Cognition AI Labs #954,Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020755Z
+Harvey AI Labs #955,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020773Z
+Synthesia Labs #956,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020790Z
+ELEVENLABS AI Labs #957,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020810Z
+OpenAI Labs #958,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020837Z
+"Anthropic, Inc. Labs #959",Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020853Z
+Cohere Labs #960,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020865Z
+Mistral AI Labs #961,Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020879Z
+Stability AI PBC Labs #962,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020896Z
+Hugging Face Labs #963,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020913Z
+Midjourney Labs #964,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020926Z
+Runway Labs #965,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020939Z
+"Scale AI, Inc. Labs #966",Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020957Z
+Perplexity AI Labs #967,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020971Z
+GLEAN AI Labs #968,Glean,0.88,Fuzzy Token Match,2026-08-16T15:06:54.020986Z
+Adept AI Labs #969,Adept AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021000Z
+Character.ai Labs #970,Character.ai Labs #970,0.75,Normalized Capitalization,2026-08-16T15:06:54.021025Z
+Together AI Labs #971,Together AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021041Z
+Anyscale Labs #972,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021055Z
+"Inflection AI, Inc. Labs #973",Inflection AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021075Z
+Pinecone Labs #974,Pinecone,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021101Z
+Weaviate PBC Labs #975,Weaviate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021117Z
+Qdrant Labs #976,Qdrant,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021132Z
+Chroma Labs #977,Chroma,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021147Z
+LangChain Labs #978,LangChain,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021169Z
+LLAMAINDEX AI Labs #979,LlamaIndex,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021187Z
+"Weights & Biases, Inc. Labs #980","Weights & Biases, Inc. Labs #980",0.75,Normalized Capitalization,2026-08-16T15:06:54.021216Z
+Replicate Labs #981,Replicate,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021233Z
+EleutherAI Labs #982,EleutherAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021255Z
+Groq Labs #983,Groq,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021273Z
+SambaNova Labs #984,SambaNova,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021289Z
+Cerebras Systems Labs #985,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021307Z
+Etched Labs #986,Etched,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021337Z
+"Cognition AI, Inc. Labs #987",Cognition AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021357Z
+Harvey AI PBC Labs #988,Harvey AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021375Z
+Synthesia Labs #989,Synthesia,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021392Z
+ELEVENLABS AI Labs #990,ElevenLabs,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021414Z
+OpenAI Labs #991,OpenAI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021426Z
+Anthropic Labs #992,Anthropic,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021439Z
+Cohere Labs #993,Cohere,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021451Z
+"Mistral AI, Inc. Labs #994",Mistral AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021469Z
+Stability AI Labs #995,Stability AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021483Z
+Hugging Face Labs #996,Hugging Face,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021500Z
+Midjourney Labs #997,Midjourney,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021514Z
+Runway Labs #998,Runway,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021528Z
+Scale AI Labs #999,Scale AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021541Z
+Perplexity AI Labs #1000,Perplexity AI,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021557Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021589Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021622Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021640Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021654Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021670Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021682Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021692Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021702Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021713Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021728Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021738Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021751Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.021775Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021788Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021798Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021809Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021820Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021830Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021840Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021849Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021860Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021870Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.021894Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021905Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021915Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021930Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021940Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.021957Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021968Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021982Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.021993Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022002Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022012Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022025Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022035Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022045Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022056Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022067Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022079Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022089Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022099Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022111Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022122Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022132Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022145Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.022168Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022182Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022192Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022202Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022212Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022221Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022231Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022246Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022259Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022272Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.022291Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022302Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022314Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022330Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022349Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.022377Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022403Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022424Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022443Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022456Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022472Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022486Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022497Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022508Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022520Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022530Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022541Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022551Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022561Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022572Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022585Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022595Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022607Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.022626Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022636Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022653Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022677Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022699Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022721Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022739Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022752Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022791Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022802Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.022822Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022844Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022855Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022865Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022875Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.022893Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022912Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022954Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.022990Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023003Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023013Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023023Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023034Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023047Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023057Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023069Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023080Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023100Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023111Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023129Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023140Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023151Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023163Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.023193Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023205Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023215Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023233Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023248Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023269Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023304Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023329Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023340Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023351Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.023378Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023389Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023399Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023410Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023421Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.023445Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023457Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023474Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023487Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023497Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023508Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023518Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023528Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023538Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023550Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023561Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023572Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023592Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023607Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023618Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023629Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023639Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023654Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.023672Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023683Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023694Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023706Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023717Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023732Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023742Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023752Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023762Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023772Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.023793Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023807Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023817Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023827Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023841Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.023857Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023870Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023882Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023893Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023903Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023914Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023923Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023934Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023944Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023957Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023975Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.023992Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024013Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024027Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024047Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024063Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024078Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024089Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.024108Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024120Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024131Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024142Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024157Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024167Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024177Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024187Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024198Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024212Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.024243Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024260Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024282Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024304Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024319Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.024346Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024363Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024381Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024397Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024414Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024431Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024446Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024461Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024476Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024497Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024528Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024544Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024567Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024613Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024634Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024650Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024665Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024682Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.024715Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024731Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024748Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024773Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024789Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024805Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024823Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024911Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024934Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.024953Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.025004Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025022Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025040Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025064Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025080Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.025102Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025128Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025148Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025166Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025181Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025199Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025215Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025231Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025254Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025285Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025400Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025456Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025483Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025504Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025527Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025549Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025571Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025592Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.025635Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025720Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025807Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025845Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025874Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025903Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025932Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.025965Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026021Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026084Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.026165Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026206Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026255Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026295Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026328Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.026368Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026405Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026439Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026473Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026510Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026540Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026567Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026592Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026621Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026654Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026681Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026720Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026742Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026767Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026788Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026811Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026833Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026856Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.026902Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026925Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026945Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026967Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.026986Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027006Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027033Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027053Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027073Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027093Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.027135Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027161Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027181Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027201Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027221Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.027249Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027269Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027292Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027313Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027334Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027354Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027380Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027406Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027461Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027488Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027510Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027538Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027558Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027577Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027598Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027682Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027702Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027722Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.027747Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027759Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027770Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027782Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027795Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027805Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027814Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027825Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027837Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027849Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.027874Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027890Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027908Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027930Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027948Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.027980Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.027995Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028007Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028018Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028032Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028044Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028055Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028065Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028076Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028087Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028098Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028112Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028123Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028133Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028144Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028155Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028167Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028177Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.028196Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028288Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028372Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028425Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028457Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028470Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028481Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028492Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028505Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028516Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.028616Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028648Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028662Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028672Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028683Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.028700Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028716Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028727Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028739Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028751Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028762Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028772Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028783Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028793Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028804Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028815Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028828Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028839Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028849Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028862Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028876Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028886Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028898Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.028918Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028929Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028940Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.028952Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029025Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029043Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029055Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029069Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029079Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029090Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.029115Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029127Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029138Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029149Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029163Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.029180Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029191Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029202Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029215Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029226Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029237Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029247Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029257Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029267Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029278Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029290Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029304Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029316Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029328Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029342Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029356Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029367Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029380Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.029399Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029411Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029423Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029435Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029446Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029457Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029472Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029483Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029495Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029506Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.029525Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029541Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029555Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029568Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029579Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.029595Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029618Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029642Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029654Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029665Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029676Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029691Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029704Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029718Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029729Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029742Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029754Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029769Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029780Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029791Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029803Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029815Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029829Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.029852Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029866Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029877Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029898Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029912Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029926Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029937Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029948Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029963Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.029982Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.030005Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030019Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030032Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030044Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030058Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.030080Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030099Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030111Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030125Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030136Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030147Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030158Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030170Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030184Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030202Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030222Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030237Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030250Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030268Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030282Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030297Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030308Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030320Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.030347Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030363Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030375Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030392Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030404Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030414Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030431Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030447Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030458Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030472Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.030492Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030503Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030517Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030527Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030540Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.030556Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030569Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030584Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030599Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030621Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030633Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030644Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030660Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030672Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030685Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030698Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030709Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030720Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030731Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030750Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030764Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030776Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030788Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.030807Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030818Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030831Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030846Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030861Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030874Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030886Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030896Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030906Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030919Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.030937Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030948Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030959Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030973Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.030986Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.031002Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031014Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031025Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031037Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031051Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031062Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031073Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031084Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031097Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031109Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031120Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031132Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031142Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031152Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031164Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031177Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031189Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031201Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.031219Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031233Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031245Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031256Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031267Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031277Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031288Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031298Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031309Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031319Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.031338Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031349Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031363Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031373Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031383Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.031400Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031413Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031424Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031435Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031445Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031456Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031466Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031478Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031487Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031498Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031510Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031521Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031532Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031542Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031552Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031563Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031573Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031586Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.031608Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031687Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031698Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031709Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031719Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031730Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031740Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031751Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031762Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031772Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.031817Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031831Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031856Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031866Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031880Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.031899Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031912Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031924Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031935Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031946Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031959Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031971Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031982Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.031992Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032003Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032013Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032025Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032035Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032045Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032056Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032069Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032081Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032095Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.032112Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032123Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032134Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032145Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032155Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032166Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032176Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032185Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032195Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032208Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.032226Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032237Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032249Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032260Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032271Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.032286Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032296Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032309Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032321Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032333Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032346Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032356Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032367Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032377Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032388Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032399Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032410Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032420Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032433Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032445Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032459Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032469Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032480Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.032499Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032510Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032520Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032531Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032541Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032550Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032561Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032571Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032583Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032594Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.032613Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032624Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032635Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032645Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032655Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.032671Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032681Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032695Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032708Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032718Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032729Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032738Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032751Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032761Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032772Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032785Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032796Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032806Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032816Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032829Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032840Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032854Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032870Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.032902Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032939Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032956Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032980Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.032998Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033009Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033020Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033037Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033048Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033060Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.033079Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033090Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033101Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033161Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033187Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.033210Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033223Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033238Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033250Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033262Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033273Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033283Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033296Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033306Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033317Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033329Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033341Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033351Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033363Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033375Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033386Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033396Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033408Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.033426Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033547Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033570Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033588Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033599Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033613Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033623Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033633Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033644Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033654Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.033676Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033687Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033698Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033709Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033719Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.033735Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033751Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033840Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033857Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033868Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033884Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033894Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033904Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033915Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033926Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033938Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033951Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033961Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033971Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033984Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.033995Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034006Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034017Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.034035Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034047Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034060Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034074Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034086Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034097Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034108Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034118Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034128Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034144Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.034168Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034180Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034190Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034200Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034211Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.034229Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034240Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034254Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034265Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034276Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034287Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034300Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034311Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034331Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034344Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034359Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034371Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034381Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034391Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034403Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034414Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034425Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034438Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.034457Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034468Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034478Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034491Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034501Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034514Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034525Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034535Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034545Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034556Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.034574Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034584Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034595Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034608Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034618Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.034635Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034651Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034664Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034742Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034752Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034762Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034773Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034788Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034799Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034812Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034824Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034835Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034846Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034856Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034867Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034882Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034892Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034903Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.034920Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034931Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034950Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034963Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034973Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034984Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.034994Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035007Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035017Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035029Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.035047Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035058Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035076Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035086Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035097Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.035112Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035123Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035134Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035145Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035155Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035165Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035175Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035201Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035219Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035229Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035241Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035253Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035263Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035275Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035287Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035298Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035308Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035319Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.035339Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035350Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035361Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035372Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035382Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035395Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035406Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035418Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035429Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035440Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.035460Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035472Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035484Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035494Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035504Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.035519Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035530Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035541Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035554Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035565Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035576Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035588Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035598Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035608Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035628Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035642Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035658Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035670Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035680Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035691Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035702Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035712Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035726Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.035744Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035755Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035766Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035777Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035787Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035798Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035807Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035817Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035834Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035847Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.035868Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035878Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035889Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035899Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035910Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.035925Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035935Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035946Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035959Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035969Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035982Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.035993Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036003Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036016Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036027Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036041Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036052Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036062Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036072Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036083Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036094Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036107Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036118Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.036135Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036146Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036156Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036167Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036177Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036190Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036200Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036210Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036224Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036237Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.036255Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036266Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036279Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036289Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036300Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.036314Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036324Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036335Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036346Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036359Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036372Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036382Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036393Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036403Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036414Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036424Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036439Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036449Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036459Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036470Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036484Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036494Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036505Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.036522Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036534Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036545Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036560Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036570Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036580Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036590Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036603Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036614Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036624Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.036646Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036662Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036673Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036683Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036693Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.036710Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036721Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036734Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036748Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036758Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036768Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036778Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036789Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036799Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036810Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036821Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036832Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036845Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036857Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036869Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036880Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036890Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036901Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.036920Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036931Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036941Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036952Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036965Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036976Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036988Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.036998Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037008Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037019Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.037037Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037050Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037060Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037070Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037080Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.037097Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037111Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037122Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037135Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037145Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037155Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037165Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037175Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037337Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037372Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037394Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037408Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037428Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037442Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037453Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.037465Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050308Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050356Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050395Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050412Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050430Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050447Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050461Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050475Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050492Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050506Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050521Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.050560Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050578Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050591Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050607Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050625Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050638Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050666Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050682Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050698Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050713Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.050745Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050760Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050773Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050786Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050800Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.050819Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050840Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050854Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050868Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050882Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050895Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050909Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050923Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050935Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050950Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050966Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050980Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.050994Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051010Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051030Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051050Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051068Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051082Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.051104Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051121Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051135Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051150Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051165Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051178Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051192Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051205Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051219Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051237Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.051260Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051274Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051287Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051301Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051315Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.051337Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051353Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051367Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051381Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051393Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051406Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051420Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051444Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051457Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051470Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051484Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051498Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051511Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051523Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051540Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051554Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051567Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051580Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.051602Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051618Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051631Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051648Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051664Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051676Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051689Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051702Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051714Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051727Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.051748Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051761Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051774Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051786Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051804Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.051822Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051836Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051849Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051862Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051875Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051887Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051900Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051926Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051939Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051952Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051966Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051979Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.051996Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052012Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052025Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052039Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052052Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052066Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.052087Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052101Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052114Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052127Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052139Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052152Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052165Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052196Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052210Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052226Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.052248Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052263Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052288Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052304Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052317Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.052335Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052348Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052361Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052374Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052391Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052404Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052417Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052430Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052442Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052456Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052472Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052485Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052499Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052514Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052527Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052541Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052554Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052571Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.052591Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052606Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052618Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052632Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052645Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052658Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052684Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052714Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052740Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052757Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052775Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052943Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.052975Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053002Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053017Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053032Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053046Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.053074Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053090Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053106Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053121Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053135Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053238Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053255Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053274Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053288Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053306Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.053331Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053444Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053466Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053480Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053498Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.053519Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053534Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053549Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053563Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053576Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053590Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053604Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053617Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053633Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053648Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053665Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053740Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053758Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053772Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053786Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053800Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053814Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053829Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.053852Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053866Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053879Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053899Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053912Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053928Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053942Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053956Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053970Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.053984Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.054005Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054020Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054033Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054047Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054061Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.054085Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054098Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054116Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054130Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054147Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054161Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054176Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054190Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054204Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054217Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054235Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054252Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054268Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054281Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054295Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054310Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054327Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054341Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.054363Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054377Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054390Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054408Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054422Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054438Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054452Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054465Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054478Z
+LlamaIndex,LlamaIndex,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054492Z
+Weights & Biases,Weights & Biases,0.75,Normalized Capitalization,2026-08-16T15:06:54.054514Z
+Replicate,Replicate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054533Z
+EleutherAI,EleutherAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054547Z
+Groq,Groq,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054560Z
+SambaNova,SambaNova,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054574Z
+Cerebras Systems,Cerebras Systems,0.88,Fuzzy Token Match,2026-08-16T15:06:54.054592Z
+Etched,Etched,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054610Z
+Cognition AI,Cognition AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054625Z
+Harvey AI,Harvey AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054640Z
+Synthesia,Synthesia,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054653Z
+ElevenLabs,ElevenLabs,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054667Z
+OpenAI,OpenAI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054680Z
+Anthropic,Anthropic,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054694Z
+Cohere,Cohere,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054707Z
+Mistral AI,Mistral AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054722Z
+Stability AI,Stability AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054742Z
+Hugging Face,Hugging Face,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054757Z
+Midjourney,Midjourney,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054770Z
+Runway,Runway,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054786Z
+Scale AI,Scale AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054800Z
+Perplexity AI,Perplexity AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054814Z
+Glean,Glean,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054827Z
+Adept AI,Adept AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054842Z
+Character.ai,Character.ai,0.75,Normalized Capitalization,2026-08-16T15:06:54.054866Z
+Together AI,Together AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054880Z
+Anyscale,Anyscale,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054894Z
+Inflection AI,Inflection AI,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054908Z
+Pinecone,Pinecone,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054924Z
+Weaviate,Weaviate,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054940Z
+Qdrant,Qdrant,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054955Z
+Chroma,Chroma,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054968Z
+LangChain,LangChain,1.0,Deterministic Seed Exact,2026-08-16T15:06:54.054982Z

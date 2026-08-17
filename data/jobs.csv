@@ -1,0 +1,150 @@
+schemaVersion,recordType,content.company,content.title,content.date,content.is_remote,content.role_family,collectedAt
+1.0,JOB,Anthropic,Staff LLM Alignment Researcher,2026-08-15T17:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cohere,Distributed Systems Engineer (GPU Cluster),2026-08-15T22:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Mistral AI,Senior Inference Optimization Engineer,2026-08-15T19:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Stability AI,Lead Data Pipelines Architect,2026-08-16T06:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Hugging Face,Generative AI Solutions Architect,2026-08-15T22:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Midjourney,Research Scientist - Computer Vision,2026-08-16T10:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Runway,Quantization & CUDA Engineer,2026-08-16T07:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Scale AI,AI Safety & Governance Lead,2026-08-16T13:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Perplexity AI,Senior Synthetic Data Engineer,2026-08-16T09:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Glean,Machine Learning Compiler Engineer,2026-08-16T14:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Adept AI,Foundational Model Trainer,2026-08-15T17:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Character.ai,Senior AI Infrastructure Engineer,2026-08-15T22:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Together AI,Staff LLM Alignment Researcher,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anyscale,Distributed Systems Engineer (GPU Cluster),2026-08-16T00:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Inflection AI,Senior Inference Optimization Engineer,2026-08-16T03:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Pinecone,Lead Data Pipelines Architect,2026-08-16T01:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weaviate,Generative AI Solutions Architect,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Qdrant,Research Scientist - Computer Vision,2026-08-15T16:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Chroma,Quantization & CUDA Engineer,2026-08-16T04:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LangChain,AI Safety & Governance Lead,2026-08-16T11:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LlamaIndex,Senior Synthetic Data Engineer,2026-08-15T22:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weights & Biases,Machine Learning Compiler Engineer,2026-08-15T19:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Replicate,Foundational Model Trainer,2026-08-16T11:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,EleutherAI,Senior AI Infrastructure Engineer,2026-08-16T14:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Groq,Staff LLM Alignment Researcher,2026-08-16T14:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,SambaNova,Distributed Systems Engineer (GPU Cluster),2026-08-16T00:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cerebras Systems,Senior Inference Optimization Engineer,2026-08-15T20:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Etched,Lead Data Pipelines Architect,2026-08-15T18:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cognition AI,Generative AI Solutions Architect,2026-08-15T20:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Harvey AI,Research Scientist - Computer Vision,2026-08-16T11:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Synthesia,Quantization & CUDA Engineer,2026-08-15T21:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,ElevenLabs,AI Safety & Governance Lead,2026-08-16T13:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,OpenAI,Senior Synthetic Data Engineer,2026-08-15T19:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anthropic,Machine Learning Compiler Engineer,2026-08-15T16:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cohere,Foundational Model Trainer,2026-08-15T22:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Mistral AI,Senior AI Infrastructure Engineer,2026-08-16T02:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Stability AI,Staff LLM Alignment Researcher,2026-08-16T12:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Hugging Face,Distributed Systems Engineer (GPU Cluster),2026-08-15T20:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Midjourney,Senior Inference Optimization Engineer,2026-08-16T03:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Runway,Lead Data Pipelines Architect,2026-08-15T22:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Scale AI,Generative AI Solutions Architect,2026-08-15T20:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Perplexity AI,Research Scientist - Computer Vision,2026-08-15T18:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Glean,Quantization & CUDA Engineer,2026-08-15T18:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Adept AI,AI Safety & Governance Lead,2026-08-16T08:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Character.ai,Senior Synthetic Data Engineer,2026-08-16T00:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Together AI,Machine Learning Compiler Engineer,2026-08-16T12:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anyscale,Foundational Model Trainer,2026-08-15T18:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Inflection AI,Senior AI Infrastructure Engineer,2026-08-16T07:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Pinecone,Staff LLM Alignment Researcher,2026-08-16T13:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weaviate,Distributed Systems Engineer (GPU Cluster),2026-08-16T07:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Qdrant,Senior Inference Optimization Engineer,2026-08-16T00:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Chroma,Lead Data Pipelines Architect,2026-08-15T22:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LangChain,Generative AI Solutions Architect,2026-08-16T06:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LlamaIndex,Research Scientist - Computer Vision,2026-08-16T10:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weights & Biases,Quantization & CUDA Engineer,2026-08-16T09:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Replicate,AI Safety & Governance Lead,2026-08-16T00:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,EleutherAI,Senior Synthetic Data Engineer,2026-08-15T16:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Groq,Machine Learning Compiler Engineer,2026-08-15T19:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,SambaNova,Foundational Model Trainer,2026-08-15T22:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cerebras Systems,Senior AI Infrastructure Engineer,2026-08-15T21:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Etched,Staff LLM Alignment Researcher,2026-08-16T02:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cognition AI,Distributed Systems Engineer (GPU Cluster),2026-08-16T04:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Harvey AI,Senior Inference Optimization Engineer,2026-08-16T03:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Synthesia,Lead Data Pipelines Architect,2026-08-15T22:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,ElevenLabs,Generative AI Solutions Architect,2026-08-15T22:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,OpenAI,Research Scientist - Computer Vision,2026-08-16T07:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anthropic,Quantization & CUDA Engineer,2026-08-16T07:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cohere,AI Safety & Governance Lead,2026-08-15T17:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Mistral AI,Senior Synthetic Data Engineer,2026-08-16T01:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Stability AI,Machine Learning Compiler Engineer,2026-08-16T01:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Hugging Face,Foundational Model Trainer,2026-08-16T04:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Midjourney,Senior AI Infrastructure Engineer,2026-08-15T20:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Runway,Staff LLM Alignment Researcher,2026-08-16T01:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Scale AI,Distributed Systems Engineer (GPU Cluster),2026-08-16T02:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Perplexity AI,Senior Inference Optimization Engineer,2026-08-16T12:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Glean,Lead Data Pipelines Architect,2026-08-16T09:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Adept AI,Generative AI Solutions Architect,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Character.ai,Research Scientist - Computer Vision,2026-08-16T02:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Together AI,Quantization & CUDA Engineer,2026-08-15T17:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anyscale,AI Safety & Governance Lead,2026-08-15T19:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Inflection AI,Senior Synthetic Data Engineer,2026-08-16T13:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Pinecone,Machine Learning Compiler Engineer,2026-08-16T07:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weaviate,Foundational Model Trainer,2026-08-15T18:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Qdrant,Senior AI Infrastructure Engineer,2026-08-16T13:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Chroma,Staff LLM Alignment Researcher,2026-08-16T00:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LangChain,Distributed Systems Engineer (GPU Cluster),2026-08-16T02:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LlamaIndex,Senior Inference Optimization Engineer,2026-08-15T17:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weights & Biases,Lead Data Pipelines Architect,2026-08-16T01:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Replicate,Generative AI Solutions Architect,2026-08-16T08:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,EleutherAI,Research Scientist - Computer Vision,2026-08-16T06:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Groq,Quantization & CUDA Engineer,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,SambaNova,AI Safety & Governance Lead,2026-08-16T01:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cerebras Systems,Senior Synthetic Data Engineer,2026-08-16T01:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Etched,Machine Learning Compiler Engineer,2026-08-16T14:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cognition AI,Foundational Model Trainer,2026-08-16T08:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Harvey AI,Senior AI Infrastructure Engineer,2026-08-16T12:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Synthesia,Staff LLM Alignment Researcher,2026-08-16T05:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,ElevenLabs,Distributed Systems Engineer (GPU Cluster),2026-08-15T23:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,OpenAI,Senior Inference Optimization Engineer,2026-08-16T14:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anthropic,Lead Data Pipelines Architect,2026-08-16T08:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cohere,Generative AI Solutions Architect,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Mistral AI,Research Scientist - Computer Vision,2026-08-16T11:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Stability AI,Quantization & CUDA Engineer,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Hugging Face,AI Safety & Governance Lead,2026-08-16T10:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Midjourney,Senior Synthetic Data Engineer,2026-08-16T01:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Runway,Machine Learning Compiler Engineer,2026-08-16T08:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Scale AI,Foundational Model Trainer,2026-08-16T14:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Perplexity AI,Senior AI Infrastructure Engineer,2026-08-15T21:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Glean,Staff LLM Alignment Researcher,2026-08-15T23:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Adept AI,Distributed Systems Engineer (GPU Cluster),2026-08-16T03:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Character.ai,Senior Inference Optimization Engineer,2026-08-15T20:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Together AI,Lead Data Pipelines Architect,2026-08-16T01:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anyscale,Generative AI Solutions Architect,2026-08-16T09:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Inflection AI,Research Scientist - Computer Vision,2026-08-16T12:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Pinecone,Quantization & CUDA Engineer,2026-08-16T01:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weaviate,AI Safety & Governance Lead,2026-08-15T22:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Qdrant,Senior Synthetic Data Engineer,2026-08-16T14:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Chroma,Machine Learning Compiler Engineer,2026-08-16T07:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LangChain,Foundational Model Trainer,2026-08-16T01:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,LlamaIndex,Senior AI Infrastructure Engineer,2026-08-16T14:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weights & Biases,Staff LLM Alignment Researcher,2026-08-15T20:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Replicate,Distributed Systems Engineer (GPU Cluster),2026-08-16T02:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,EleutherAI,Senior Inference Optimization Engineer,2026-08-15T16:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Groq,Lead Data Pipelines Architect,2026-08-16T05:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,SambaNova,Generative AI Solutions Architect,2026-08-16T02:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cerebras Systems,Research Scientist - Computer Vision,2026-08-15T18:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Etched,Quantization & CUDA Engineer,2026-08-15T20:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cognition AI,AI Safety & Governance Lead,2026-08-16T05:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Harvey AI,Senior Synthetic Data Engineer,2026-08-15T16:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Synthesia,Machine Learning Compiler Engineer,2026-08-16T09:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,ElevenLabs,Foundational Model Trainer,2026-08-15T21:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,OpenAI,Senior AI Infrastructure Engineer,2026-08-16T04:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anthropic,Staff LLM Alignment Researcher,2026-08-16T01:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Cohere,Distributed Systems Engineer (GPU Cluster),2026-08-15T17:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Mistral AI,Senior Inference Optimization Engineer,2026-08-16T05:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Stability AI,Lead Data Pipelines Architect,2026-08-15T22:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Hugging Face,Generative AI Solutions Architect,2026-08-16T05:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Midjourney,Research Scientist - Computer Vision,2026-08-16T11:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Runway,Quantization & CUDA Engineer,2026-08-16T09:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Scale AI,AI Safety & Governance Lead,2026-08-15T20:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Perplexity AI,Senior Synthetic Data Engineer,2026-08-16T09:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Glean,Machine Learning Compiler Engineer,2026-08-16T10:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Adept AI,Foundational Model Trainer,2026-08-16T13:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Character.ai,Senior AI Infrastructure Engineer,2026-08-16T14:06:53.999699+00:00,False,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Together AI,Staff LLM Alignment Researcher,2026-08-16T11:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Anyscale,Distributed Systems Engineer (GPU Cluster),2026-08-15T16:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Inflection AI,Senior Inference Optimization Engineer,2026-08-15T19:06:53.999699+00:00,False,Research & AI,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Pinecone,Lead Data Pipelines Architect,2026-08-16T10:06:53.999699+00:00,True,Engineering,2026-08-16T15:06:53.999699+00:00
+1.0,JOB,Weaviate,Generative AI Solutions Architect,2026-08-15T17:06:53.999699+00:00,True,Research & AI,2026-08-16T15:06:53.999699+00:00

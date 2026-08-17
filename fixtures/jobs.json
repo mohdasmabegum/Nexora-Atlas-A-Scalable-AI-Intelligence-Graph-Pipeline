@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "j-1",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anthropic",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T06:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://anthropic.com/careers/1"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-2",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cohere",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T11:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://cohere.com/careers/2"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-3",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Mistral AI",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T03:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://mistral.ai/careers/3"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-4",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Stability AI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T02:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://stability.ai/careers/4"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-5",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Hugging Face",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://huggingface.co/careers/5"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-6",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Midjourney",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T14:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://midjourney.com/careers/6"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-7",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Runway",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T05:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://runwayml.com/careers/7"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-8",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Scale AI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://scale.com/careers/8"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-9",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Perplexity AI",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://perplexity.ai/careers/9"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-10",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Glean",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://glean.com/careers/10"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-11",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Adept AI",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T23:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://adept.ai/careers/11"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-12",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Character.ai",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T03:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://character.ai/careers/12"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-13",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Together AI",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T14:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://together.ai/careers/13"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-14",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anyscale",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://anyscale.com/careers/14"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-15",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Inflection AI",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://inflection.ai/careers/15"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-16",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Pinecone",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://pinecone.io/careers/16"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-17",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weaviate",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://weaviate.io/careers/17"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-18",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Qdrant",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://qdrant.tech/careers/18"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-19",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Chroma",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://trychroma.com/careers/19"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-20",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LangChain",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T23:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://langchain.com/careers/20"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-21",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LlamaIndex",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://llamaindex.ai/careers/21"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-22",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weights & Biases",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://wandb.ai/careers/22"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-23",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Replicate",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://replicate.com/careers/23"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-24",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "EleutherAI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://eleuther.ai/careers/24"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-25",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Groq",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://groq.com/careers/25"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-26",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "SambaNova",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T10:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://sambanova.ai/careers/26"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-27",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cerebras Systems",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://cerebras.ai/careers/27"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-28",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cognition AI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://cognition-labs.com/careers/28"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-29",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Harvey AI",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://harvey.ai/careers/29"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-30",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Synthesia",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://synthesia.io/careers/30"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-31",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "ElevenLabs",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://elevenlabs.io/careers/31"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-32",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "OpenAI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://openai.com/careers/32"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-33",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anthropic",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://anthropic.com/careers/33"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-34",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cohere",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-15T17:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://cohere.com/careers/34"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-35",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Mistral AI",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://mistral.ai/careers/35"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-36",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Stability AI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T12:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://stability.ai/careers/36"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-37",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Hugging Face",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://huggingface.co/careers/37"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-38",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Midjourney",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T00:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://midjourney.com/careers/38"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-39",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Runway",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://runwayml.com/careers/39"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-40",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Scale AI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-15T16:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://scale.com/careers/40"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-41",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Perplexity AI",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://perplexity.ai/careers/41"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-42",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Glean",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T14:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://glean.com/careers/42"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-43",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Adept AI",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://adept.ai/careers/43"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-44",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Character.ai",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://character.ai/careers/44"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-45",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Together AI",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T00:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://together.ai/careers/45"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-46",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anyscale",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://anyscale.com/careers/46"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-47",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Inflection AI",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://inflection.ai/careers/47"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-48",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Pinecone",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T02:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://pinecone.io/careers/48"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-49",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weaviate",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://weaviate.io/careers/49"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-50",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Qdrant",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-15T16:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://qdrant.tech/careers/50"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-51",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Chroma",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-15T16:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://trychroma.com/careers/51"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-52",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LangChain",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://langchain.com/careers/52"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-53",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LlamaIndex",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T12:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://llamaindex.ai/careers/53"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-54",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weights & Biases",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://wandb.ai/careers/54"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-55",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Replicate",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T01:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://replicate.com/careers/55"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-56",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "EleutherAI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T23:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://eleuther.ai/careers/56"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-57",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Groq",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T01:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://groq.com/careers/57"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-58",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "SambaNova",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T12:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://sambanova.ai/careers/58"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-59",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cerebras Systems",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-16T12:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://cerebras.ai/careers/59"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-60",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cognition AI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://cognition-labs.com/careers/60"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-61",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Harvey AI",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T06:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://harvey.ai/careers/61"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-62",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Synthesia",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://synthesia.io/careers/62"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-63",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "ElevenLabs",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T14:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://elevenlabs.io/careers/63"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-64",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "OpenAI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T01:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://openai.com/careers/64"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-65",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anthropic",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://anthropic.com/careers/65"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-66",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cohere",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T12:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://cohere.com/careers/66"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-67",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Mistral AI",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T07:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://mistral.ai/careers/67"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-68",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Stability AI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-16T04:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://stability.ai/careers/68"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-69",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Hugging Face",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T06:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://huggingface.co/careers/69"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-70",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Midjourney",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T07:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://midjourney.com/careers/70"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-71",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Runway",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://runwayml.com/careers/71"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-72",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Scale AI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T11:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://scale.com/careers/72"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-73",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Perplexity AI",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://perplexity.ai/careers/73"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-74",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Glean",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T14:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://glean.com/careers/74"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-75",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Adept AI",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T11:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://adept.ai/careers/75"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-76",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Character.ai",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://character.ai/careers/76"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-77",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Together AI",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://together.ai/careers/77"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-78",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anyscale",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://anyscale.com/careers/78"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-79",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Inflection AI",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T04:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://inflection.ai/careers/79"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-80",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Pinecone",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://pinecone.io/careers/80"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-81",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weaviate",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T00:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://weaviate.io/careers/81"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-82",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Qdrant",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://qdrant.tech/careers/82"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-83",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Chroma",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T17:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://trychroma.com/careers/83"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-84",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LangChain",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://langchain.com/careers/84"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-85",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LlamaIndex",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T02:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://llamaindex.ai/careers/85"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-86",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weights & Biases",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T05:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://wandb.ai/careers/86"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-87",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Replicate",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://replicate.com/careers/87"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-88",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "EleutherAI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T03:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://eleuther.ai/careers/88"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-89",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Groq",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://groq.com/careers/89"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-90",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "SambaNova",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://sambanova.ai/careers/90"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-91",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cerebras Systems",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://cerebras.ai/careers/91"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-92",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cognition AI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://cognition-labs.com/careers/92"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-93",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Harvey AI",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://harvey.ai/careers/93"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-94",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Synthesia",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://synthesia.io/careers/94"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-95",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "ElevenLabs",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://elevenlabs.io/careers/95"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-96",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "OpenAI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T08:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://openai.com/careers/96"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-97",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anthropic",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T04:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://anthropic.com/careers/97"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-98",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cohere",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://cohere.com/careers/98"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-99",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Mistral AI",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-15T17:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://mistral.ai/careers/99"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-100",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Stability AI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T02:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://stability.ai/careers/100"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-101",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Hugging Face",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T06:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://huggingface.co/careers/101"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-102",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Midjourney",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T05:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://midjourney.com/careers/102"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-103",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Runway",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T03:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://runwayml.com/careers/103"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-104",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Scale AI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://scale.com/careers/104"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-105",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Perplexity AI",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-16T07:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://perplexity.ai/careers/105"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-106",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Glean",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T02:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://glean.com/careers/106"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-107",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Adept AI",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://adept.ai/careers/107"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-108",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Character.ai",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T04:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://character.ai/careers/108"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-109",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Together AI",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-15T17:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://together.ai/careers/109"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-110",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anyscale",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T03:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://anyscale.com/careers/110"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-111",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Inflection AI",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://inflection.ai/careers/111"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-112",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Pinecone",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T05:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://pinecone.io/careers/112"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-113",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weaviate",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://weaviate.io/careers/113"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-114",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Qdrant",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-15T16:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://qdrant.tech/careers/114"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-115",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Chroma",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T10:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://trychroma.com/careers/115"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-116",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LangChain",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-16T03:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://langchain.com/careers/116"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-117",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LlamaIndex",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://llamaindex.ai/careers/117"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-118",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weights & Biases",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://wandb.ai/careers/118"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-119",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Replicate",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-16T05:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://replicate.com/careers/119"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-120",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "EleutherAI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T14:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://eleuther.ai/careers/120"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-121",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Groq",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T06:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://groq.com/careers/121"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-122",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "SambaNova",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T02:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://sambanova.ai/careers/122"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-123",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cerebras Systems",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T05:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://cerebras.ai/careers/123"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-124",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cognition AI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://cognition-labs.com/careers/124"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-125",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Harvey AI",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T07:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://harvey.ai/careers/125"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-126",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Synthesia",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T06:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://synthesia.io/careers/126"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-127",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "ElevenLabs",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-15T17:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://elevenlabs.io/careers/127"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-128",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "OpenAI",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-16T00:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://openai.com/careers/128"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-129",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anthropic",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://anthropic.com/careers/129"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-130",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Cohere",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-16T01:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://cohere.com/careers/130"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-131",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Mistral AI",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://mistral.ai/careers/131"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-132",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Stability AI",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T01:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://stability.ai/careers/132"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-133",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Hugging Face",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://huggingface.co/careers/133"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-134",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Midjourney",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-16T10:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://midjourney.com/careers/134"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-135",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Runway",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-16T13:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://runwayml.com/careers/135"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-136",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Scale AI",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://scale.com/careers/136"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-137",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Perplexity AI",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T09:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://perplexity.ai/careers/137"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-138",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Glean",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-16T10:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Data",
+      "source_url": "https://glean.com/careers/138"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-139",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Adept AI",
+      "title": "Quantization & CUDA Engineer",
+      "date": "2026-08-16T07:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://adept.ai/careers/139"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-140",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Character.ai",
+      "title": "AI Safety & Governance Lead",
+      "date": "2026-08-15T23:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://character.ai/careers/140"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-141",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Together AI",
+      "title": "Senior Synthetic Data Engineer",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Research",
+      "source_url": "https://together.ai/careers/141"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-142",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Anyscale",
+      "title": "Machine Learning Compiler Engineer",
+      "date": "2026-08-15T18:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Product",
+      "source_url": "https://anyscale.com/careers/142"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-143",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Inflection AI",
+      "title": "Foundational Model Trainer",
+      "date": "2026-08-15T22:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://inflection.ai/careers/143"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-144",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Pinecone",
+      "title": "Senior AI Infrastructure Engineer",
+      "date": "2026-08-16T00:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Design",
+      "source_url": "https://pinecone.io/careers/144"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-145",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weaviate",
+      "title": "Staff LLM Alignment Researcher",
+      "date": "2026-08-16T10:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "source_url": "https://weaviate.io/careers/145"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-146",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Qdrant",
+      "title": "Distributed Systems Engineer (GPU Cluster)",
+      "date": "2026-08-15T21:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "source_url": "https://qdrant.tech/careers/146"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-147",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Chroma",
+      "title": "Senior Inference Optimization Engineer",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Product",
+      "source_url": "https://trychroma.com/careers/147"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-148",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LangChain",
+      "title": "Lead Data Pipelines Architect",
+      "date": "2026-08-15T20:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Data",
+      "source_url": "https://langchain.com/careers/148"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-149",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "LlamaIndex",
+      "title": "Generative AI Solutions Architect",
+      "date": "2026-08-16T12:17:41.230038+00:00",
+      "is_remote": true,
+      "role_family": "Design",
+      "source_url": "https://llamaindex.ai/careers/149"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  },
+  {
+    "id": "j-150",
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "content": {
+      "company": "Weights & Biases",
+      "title": "Research Scientist - Computer Vision",
+      "date": "2026-08-15T19:17:41.230038+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "source_url": "https://wandb.ai/careers/150"
+    },
+    "freshnessStatus": "VALIDATED_FRESH_24H",
+    "collectedAt": "2026-08-16T15:17:41.230038+00:00"
+  }
+]
