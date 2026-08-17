@@ -1,15 +1,11 @@
 # Nexora Atlas — A Scalable AI Intelligence Graph Pipeline
 
-<div align="center">
-
 ![Nexora Atlas Banner](https://img.shields.io/badge/NEXORA%20ATLAS-INTELLIMESH%20v1.0-00F2FE?style=for-the-badge&logo=react&logoColor=black)
 ![Live Vercel](https://img.shields.io/badge/Vercel-Production%20Live-10B981?style=for-the-badge&logo=vercel&logoColor=white)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React 18](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -19,10 +15,9 @@
 
 ## 🔗 Live Deployments & Repository Links
 
-> [!IMPORTANT]
-> - 🌐 **Live Vercel Production Dashboard**: **[https://nexora-atlas.vercel.app](https://nexora-atlas.vercel.app)**
-> - 📁 **GitHub Source Code Repository**: **[https://github.com/mohdasmabegum/Nexora-Atlas-A-Scalable-AI-Intelligence-Graph-Pipeline](https://github.com/mohdasmabegum/Nexora-Atlas-A-Scalable-AI-Intelligence-Graph-Pipeline)**
-> - 📊 **1-Click Master Google Sheet Export**: **[https://sheets.new](https://sheets.new)**
+- 🌐 **Live Vercel Production Dashboard**: [https://nexora-atlas.vercel.app](https://nexora-atlas.vercel.app)
+- 📁 **GitHub Source Code Repository**: [https://github.com/mohdasmabegum/Nexora-Atlas-A-Scalable-AI-Intelligence-Graph-Pipeline](https://github.com/mohdasmabegum/Nexora-Atlas-A-Scalable-AI-Intelligence-Graph-Pipeline)
+- 📊 **1-Click Master Google Sheet Export**: [https://sheets.new](https://sheets.new)
 
 ---
 
@@ -63,45 +58,32 @@ Every dedicated page features a sleek horizontal sub-navbar (`.sub-page-navbar`)
 
 ## 🏗️ System Architecture & Data Flow
 
-```mermaid
-flowchart TD
-    subgraph MultiSource [12 Ingestion Sources]
-        A1[Arxiv CS.AI]
-        A2[PapersWithCode]
-        A3[TechCrunch / VentureBeat]
-        A4[OpenAI / Anthropic Career Boards]
-    end
-
-    subgraph CrawlerEngine [Async Ingestion Engine]
-        B1[aiohttp Concurrent Fetcher]
-        B2[Playwright Async JS Renderer]
-        B3[Anti-Bot Header Rotator]
-    end
-
-    subgraph NormalizationLayer [Data Processing Engine]
-        C1[24h Freshness SLA Date Parser]
-        C2[Smart Token Boundary Chunker]
-        C3[Multi-Tier LLM Orchestrator]
-    end
-
-    subgraph EntityResolution [Resolution & Persistence]
-        D1[Deterministic Entity Resolver]
-        D2[PostgreSQL pgvector Database]
-        D3[Neo4j Knowledge Graph Topology]
-    end
-
-    subgraph UserInterface [Frontend React Dashboard]
-        E1[Command Center Dashboard]
-        E2[6 Dedicated Standalone Pages]
-        E3[Interactive Knowledge Graph]
-        E4[Master Google Sheet Export]
-    end
-
-    MultiSource --> CrawlerEngine
-    CrawlerEngine --> RawStore[(Raw HTML Store)]
-    RawStore --> NormalizationLayer
-    NormalizationLayer --> EntityResolution
-    EntityResolution --> UserInterface
+```
+DATA SOURCES (Arxiv, PWC, News, Job Boards)
+       │
+       ▼
+ASYNC CRAWLER (asyncio + aiohttp + Playwright Async)
+       │
+       ▼
+RAW DOCUMENT STORE (PostgreSQL / Redis)
+       │
+       ▼
+FRESHNESS / DATE NORMALIZATION (24-Hour SLA Validation)
+       │
+       ▼
+INTELLIGENT CHUNKER (Semantic Token Boundary 413 Preventer)
+       │
+       ▼
+LLM ORCHESTRATOR (Gemini Flash ➔ Groq Llama ➔ DeepSeek)
+       │
+       ▼
+ENTITY RESOLUTION (Deterministic String Normalizer + Seed Database)
+       │
+       ▼
+PRIMARY & GRAPH DB (PostgreSQL pgvector + Neo4j Graph Topology)
+       │
+       ▼
+EXPORT & DASHBOARD (Google Sheets API + React Knowledge Graph UI)
 ```
 
 ---
